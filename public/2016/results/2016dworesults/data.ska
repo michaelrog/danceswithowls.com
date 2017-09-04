@@ -1,0 +1,5099 @@
+event {
+    version 15
+
+    couples {100 101 102 103 104 105 106 107 108 109 110 111 112 113 114 115 116 117 118 119 120 121 122 123 124 125 126 127 128 129 130 131 132 133 134 135 136 137 138 139 140 141 142 143 144 145 146 147 148 149 150 151 152 153 154 155 156 157 158 159 160 161 162 163 164 165 166 167 168 169 170 200 201 202 203 204 205 206 207}
+    judges {A B C D E F G H}
+    panels {1 2 3 4 5 6 7 8 9 10 11}
+    panel:name:1 CW
+    panel:judges:1 {F G D}
+    panel:name:2 Smooth
+    panel:judges:2 {C E F}
+    panel:name:3 {Smooth 2}
+    panel:judges:3 {A D G}
+    panel:name:4 Int
+    panel:judges:4 {C A D}
+    panel:name:5 {Int Sil}
+    panel:judges:5 {F G E}
+    panel:name:6 Soc
+    panel:judges:6 {B D G}
+    panel:name:7 rhy
+    panel:judges:7 {F A E}
+    panel:name:8 {rhy 2}
+    panel:judges:8 {B G C}
+    panel:name:9 {Int	}
+    panel:judges:9 {C D E}
+    panel:name:10 {int 2}
+    panel:judges:10 {B F G}
+    panel:name:11 Open
+    panel:judges:11 {A B C D E F G}
+    useCountry 0
+    folders {folder1 folder2 folder3 folder4 folder5 folder6 folder7 folder8 folder9 folder10 folder11 folder12 folder13 folder14 folder15 folder16 folder17 folder18 folder19 folder20 folder21 folder22 folder23 folder24 folder25 folder26 folder27 folder28 folder29 folder30 folder31 folder32 folder33 folder34 folder35 folder36 folder37 folder38 folder39 folder40 folder41 folder42 folder43 folder44 folder45 folder46 folder47 folder48 folder49 folder50 folder51 folder52 folder53 folder54 folder55 folder56 folder57 folder58 folder59 folder60 folder62 folder63 folder64 folder65 folder66 folder67 folder68 folder69 folder70 folder71 folder72 folder73 folder74 folder75 folder76 folder77 folder78 folder79 folder80 folder81 folder82 folder83 folder84 folder85 folder86 folder87 folder88 folder89 folder90 folder91 folder92 folder93 folder94 folder95 folder96 folder97 folder98 folder99 folder100 folder101 folder102 folder103 folder104 folder105 folder106 folder107 folder108 folder109 folder110 folder111 folder112 folder113 folder114 folder115 folder116 folder117 folder118}
+
+    name:100 {Couple 100}
+    school:100 {}
+    name:101 {Couple 101}
+    school:101 {}
+    name:102 {Couple 102}
+    school:102 {}
+    name:103 {Couple 103}
+    school:103 {}
+    name:104 {Couple 104}
+    school:104 {}
+    name:105 {Couple 105}
+    school:105 {}
+    name:106 {Couple 106}
+    school:106 {}
+    name:107 {Couple 107}
+    school:107 {}
+    name:108 {Couple 108}
+    school:108 {}
+    name:109 {Couple 109}
+    school:109 {}
+    name:110 {Couple 110}
+    school:110 {}
+    name:111 {Couple 111}
+    school:111 {}
+    name:112 {Couple 112}
+    school:112 {}
+    name:113 {Couple 113}
+    school:113 {}
+    name:114 {Couple 114}
+    school:114 {}
+    name:115 {Couple 115}
+    school:115 {}
+    name:116 {Couple 116}
+    school:116 {}
+    name:117 {Couple 117}
+    school:117 {}
+    name:118 {Couple 118}
+    school:118 {}
+    name:119 {Couple 119}
+    school:119 {}
+    name:120 {Couple 120}
+    school:120 {}
+    name:121 {Couple 121}
+    school:121 {}
+    name:122 {Couple 122}
+    school:122 {}
+    name:123 {Couple 123}
+    school:123 {}
+    name:124 {Couple 124}
+    school:124 {}
+    name:125 {Couple 125}
+    school:125 {}
+    name:126 {Couple 126}
+    school:126 {}
+    name:127 {Couple 127}
+    school:127 {}
+    name:128 {Couple 128}
+    school:128 {}
+    name:129 {Couple 129}
+    school:129 {}
+    name:130 {Couple 130}
+    school:130 {}
+    name:131 {Couple 131}
+    school:131 {}
+    name:132 {Couple 132}
+    school:132 {}
+    name:133 {Couple 133}
+    school:133 {}
+    name:134 {Couple 134}
+    school:134 {}
+    name:135 {Couple 135}
+    school:135 {}
+    name:136 {Couple 136}
+    school:136 {}
+    name:137 {Couple 137}
+    school:137 {}
+    name:138 {Couple 138}
+    school:138 {}
+    name:139 {Couple 139}
+    school:139 {}
+    name:140 {Couple 140}
+    school:140 {}
+    name:141 {Couple 141}
+    school:141 {}
+    name:142 {Couple 142}
+    school:142 {}
+    name:143 {Couple 143}
+    school:143 {}
+    name:144 {Couple 144}
+    school:144 {}
+    name:145 {Couple 145}
+    school:145 {}
+    name:146 {Couple 146}
+    school:146 {}
+    name:147 {Couple 147}
+    school:147 {}
+    name:148 {Couple 148}
+    school:148 {}
+    name:149 {Couple 149}
+    school:149 {}
+    name:150 {Couple 150}
+    school:150 {}
+    name:151 {Couple 151}
+    school:151 {}
+    name:152 {Couple 152}
+    school:152 {}
+    name:153 {Couple 153}
+    school:153 {}
+    name:154 {Couple 154}
+    school:154 {}
+    name:155 {Couple 155}
+    school:155 {}
+    name:156 {Couple 156}
+    school:156 {}
+    name:157 {Couple 157}
+    school:157 {}
+    name:158 {Couple 158}
+    school:158 {}
+    name:159 {Couple 159}
+    school:159 {}
+    name:160 {Couple 160}
+    school:160 {}
+    name:161 {Couple 161}
+    school:161 {}
+    name:162 {Couple 162}
+    school:162 {}
+    name:163 {Couple 163}
+    school:163 {}
+    name:164 {Couple 164}
+    school:164 {}
+    name:165 {Couple 165}
+    school:165 {}
+    name:166 {Couple 166}
+    school:166 {}
+    name:167 {Couple 167}
+    school:167 {}
+    name:168 {Couple 168}
+    school:168 {}
+    name:169 {Couple 169}
+    school:169 {}
+    name:170 {Couple 170}
+    school:170 {}
+    name:200 Green
+    school:200 {}
+    name:201 Blue
+    school:201 {}
+    name:202 Purple
+    school:202 {}
+    name:203 orange
+    school:203 {}
+    name:204 Yellow
+    school:204 {}
+    name:205 Red
+    school:205 {}
+    name:206 Black
+    school:206 {}
+    name:207 {Couple 207}
+    school:207 {}
+    name:A Enzo
+    name:B Carlos
+    name:C Pat
+    name:D John
+    name:E Craig
+    name:F Pam
+    name:G Vikky
+    name:H {}
+
+    general:date {November 05, 2016}
+    general:title {}
+}
+
+
+folder1 {
+    label {1 CW Beg C}
+    mode normal
+    dances {{Cha Cha}}
+    attributes:age:ext {}
+    attributes:age:max {}
+    attributes:age:min {}
+    attributes:level {}
+    attributes:type {}
+    levels {semi finale}
+    round:generation auto
+    round:explicitNames 1
+    round:use50%rule 1
+    round:semi:use 1
+    round:semi:split 0
+    round:semi:nb 6
+    round:semi:nbSelected 6
+    round:semi.2:nb 0
+    round:semi:name {1/2 Finale}
+    round:finale:use 1
+    round:finale:split 0
+    round:finale:nb 0
+    round:finale.2:nb 0
+    round:finale:name Finale
+    dances:semi {{Cha Cha}}
+    panels {{} all}
+    judges:requested {F G D}
+    judges:semi {D F G}
+    judges:finale {F G D}
+    couples:names {113 127 128 131 135 136 139 142 143 148 157}
+    couples:all {113 127 128 131 135 136 139 142 143 148 157}
+    couples:semi {113 127 128 131 135 136 139 142 143 148 157}
+    couples:finale {113 128 131 142 148 157}
+    {notes:semi:113:Cha Cha} {1 1 1}
+    {notes:semi:127:Cha Cha} {0 0 0}
+    {notes:semi:128:Cha Cha} {1 1 1}
+    {notes:semi:131:Cha Cha} {1 1 0}
+    {notes:semi:135:Cha Cha} {0 0 0}
+    {notes:semi:136:Cha Cha} {1 0 0}
+    {notes:semi:139:Cha Cha} {0 0 1}
+    {notes:semi:142:Cha Cha} {0 1 1}
+    {notes:semi:143:Cha Cha} {1 0 0}
+    {notes:semi:148:Cha Cha} {1 1 1}
+    {notes:semi:157:Cha Cha} {0 1 1}
+    {notes:finale:113:Cha Cha} {1 1 1}
+    {notes:finale:128:Cha Cha} {4 4 4}
+    {notes:finale:131:Cha Cha} {5 6 5}
+    {notes:finale:142:Cha Cha} {2 2 3}
+    {notes:finale:148:Cha Cha} {3 3 2}
+    {notes:finale:157:Cha Cha} {6 5 6}
+}
+
+folder2 {
+    label {2 CW Beg W}
+    mode normal
+    dances Waltz
+    attributes:age:ext {}
+    attributes:age:max {}
+    attributes:age:min {}
+    attributes:level {}
+    attributes:type {}
+    levels finale
+    round:generation auto
+    round:explicitNames 1
+    round:use50%rule 1
+    round:finale:use 1
+    round:finale:split 0
+    round:finale:nb 0
+    round:finale.2:nb 0
+    round:finale:name Finale
+    panels {{} all}
+    judges:requested {F G D}
+    judges:finale {F G D}
+    couples:names {113 135 136 139 142}
+    couples:all {113 135 136 139 142}
+    couples:finale {113 135 136 139 142}
+    notes:finale:113:Waltz {1 1 3}
+    notes:finale:135:Waltz {4 3 2}
+    notes:finale:136:Waltz {5 4 5}
+    notes:finale:139:Waltz {3 5 1}
+    notes:finale:142:Waltz {2 2 4}
+}
+
+folder3 {
+    label {3 CW Beg Tx2s}
+    mode normal
+    dances TX2S
+    attributes:age:ext {}
+    attributes:age:max {}
+    attributes:age:min {}
+    attributes:level {}
+    attributes:type {}
+    levels finale
+    round:generation auto
+    round:explicitNames 1
+    round:use50%rule 1
+    round:finale:use 1
+    round:finale:split 0
+    round:finale:nb 0
+    round:finale.2:nb 0
+    round:finale:name Finale
+    panels {{} all}
+    judges:requested {F G D}
+    judges:finale {F G D}
+    couples:names {113 127 135 136 142 148 152}
+    couples:all {113 127 135 136 142 148 152}
+    couples:finale {113 127 135 136 142 148 152}
+    notes:finale:113:TX2S {1 4 1}
+    notes:finale:127:TX2S {5 7 3}
+    notes:finale:135:TX2S {6 5 5}
+    notes:finale:136:TX2S {7 6 7}
+    notes:finale:142:TX2S {3 1 2}
+    notes:finale:148:TX2S {2 2 6}
+    notes:finale:152:TX2S {4 3 4}
+}
+
+folder4 {
+    label {4 CW Beg ECS}
+    mode normal
+    dances {{East Coast Swing}}
+    attributes:age:ext {}
+    attributes:age:max {}
+    attributes:age:min {}
+    attributes:level {}
+    attributes:type {}
+    levels {semi finale}
+    round:generation auto
+    round:explicitNames 1
+    round:use50%rule 1
+    round:semi:use 1
+    round:semi:split 0
+    round:semi:nb 6
+    round:semi:nbSelected 6
+    round:semi.2:nb 0
+    round:semi:name {1/2 Finale}
+    round:finale:use 1
+    round:finale:split 0
+    round:finale:nb 0
+    round:finale.2:nb 0
+    round:finale:name Finale
+    dances:semi {{East Coast Swing}}
+    panels {{} all}
+    judges:requested {F G D}
+    judges:semi {D F G}
+    judges:finale {F G D}
+    couples:names {113 127 128 131 135 136 138 139 142 143 148 157}
+    couples:all {113 127 128 131 135 136 138 139 142 143 148 157}
+    couples:semi {113 127 128 131 135 136 138 139 142 143 148 157}
+    couples:finale {113 131 139 142 148 157}
+    {notes:semi:113:East Coast Swing} {1 1 1}
+    {notes:semi:127:East Coast Swing} {0 0 0}
+    {notes:semi:128:East Coast Swing} {0 0 1}
+    {notes:semi:131:East Coast Swing} {1 1 1}
+    {notes:semi:135:East Coast Swing} {0 0 0}
+    {notes:semi:136:East Coast Swing} {0 0 0}
+    {notes:semi:138:East Coast Swing} {1 0 0}
+    {notes:semi:139:East Coast Swing} {0 1 1}
+    {notes:semi:142:East Coast Swing} {1 1 0}
+    {notes:semi:143:East Coast Swing} {0 0 0}
+    {notes:semi:148:East Coast Swing} {1 1 1}
+    {notes:semi:157:East Coast Swing} {1 1 1}
+    {notes:finale:113:East Coast Swing} {1 1 1}
+    {notes:finale:131:East Coast Swing} {4 6 4}
+    {notes:finale:139:East Coast Swing} {3 4 2}
+    {notes:finale:142:East Coast Swing} {6 3 5}
+    {notes:finale:148:East Coast Swing} {2 2 3}
+    {notes:finale:157:East Coast Swing} {5 5 6}
+}
+
+folder5 {
+    label {5 CW Beg P}
+    mode normal
+    dances Polka
+    attributes:age:ext {}
+    attributes:age:max {}
+    attributes:age:min {}
+    attributes:level {}
+    attributes:type {}
+    levels finale
+    round:generation auto
+    round:explicitNames 1
+    round:use50%rule 1
+    round:finale:use 1
+    round:finale:split 0
+    round:finale:nb 0
+    round:finale.2:nb 0
+    round:finale:name Finale
+    panels {{} all}
+    judges:requested {F G D}
+    judges:finale {F G D}
+    couples:names {113 135 138 142 148 169}
+    couples:all {113 135 138 142 148 169}
+    couples:finale {113 135 138 142 148 169}
+    notes:finale:113:Polka {2 1 1}
+    notes:finale:135:Polka {6 6 6}
+    notes:finale:138:Polka {5 5 5}
+    notes:finale:142:Polka {3 2 2}
+    notes:finale:148:Polka {1 3 4}
+    notes:finale:169:Polka {4 4 3}
+}
+
+folder6 {
+    label {6 CW Int C}
+    mode normal
+    dances {{Cha Cha}}
+    attributes:age:ext {}
+    attributes:age:max {}
+    attributes:age:min {}
+    attributes:level {}
+    attributes:type {}
+    levels finale
+    round:generation auto
+    round:explicitNames 1
+    round:use50%rule 1
+    round:finale:use 1
+    round:finale:split 0
+    round:finale:nb 0
+    round:finale.2:nb 0
+    round:finale:name Finale
+    panels {{} all}
+    judges:requested {F G D}
+    judges:finale {F G D}
+    couples:names 116
+    couples:all 116
+    couples:finale 116
+    {notes:finale:116:Cha Cha} {1 1 1}
+}
+
+folder7 {
+    label {7 CW Int W}
+    mode normal
+    dances Waltz
+    attributes:age:ext {}
+    attributes:age:max {}
+    attributes:age:min {}
+    attributes:level {}
+    attributes:type {}
+    levels finale
+    round:generation auto
+    round:explicitNames 1
+    round:use50%rule 1
+    round:finale:use 1
+    round:finale:split 0
+    round:finale:nb 0
+    round:finale.2:nb 0
+    round:finale:name Finale
+    panels {{} all}
+    judges:requested {F G D}
+    judges:finale {F G D}
+    couples:names 116
+    couples:all 116
+    couples:finale 116
+    notes:finale:116:Waltz {1 1 1}
+}
+
+folder8 {
+    label {8 CW Int Tx2S}
+    mode normal
+    dances Tx2s
+    attributes:age:ext {}
+    attributes:age:max {}
+    attributes:age:min {}
+    attributes:level {}
+    attributes:type {}
+    levels finale
+    round:generation auto
+    round:explicitNames 1
+    round:use50%rule 1
+    round:finale:use 1
+    round:finale:split 0
+    round:finale:nb 0
+    round:finale.2:nb 0
+    round:finale:name Finale
+    panels {{} all}
+    judges:requested {F G D}
+    judges:finale {F G D}
+    couples:names 116
+    couples:all 116
+    couples:finale 116
+    notes:finale:116:Tx2s {1 1 1}
+}
+
+folder9 {
+    label {9 CW Int ECS}
+    mode normal
+    dances {{East Coast Swing}}
+    attributes:age:ext {}
+    attributes:age:max {}
+    attributes:age:min {}
+    attributes:level {}
+    attributes:type {}
+    levels finale
+    round:generation auto
+    round:explicitNames 1
+    round:use50%rule 1
+    round:finale:use 1
+    round:finale:split 0
+    round:finale:nb 0
+    round:finale.2:nb 0
+    round:finale:name Finale
+    panels {{} all}
+    judges:requested {F G D}
+    judges:finale {F G D}
+    couples:names 116
+    couples:all 116
+    couples:finale 116
+    {notes:finale:116:East Coast Swing} {1 1 1}
+}
+
+folder10 {
+    label {10 CW Int P}
+    mode normal
+    dances Polka
+    attributes:age:ext {}
+    attributes:age:max {}
+    attributes:age:min {}
+    attributes:level {}
+    attributes:type {}
+    levels finale
+    round:generation auto
+    round:explicitNames 1
+    round:use50%rule 1
+    round:finale:use 1
+    round:finale:split 0
+    round:finale:nb 0
+    round:finale.2:nb 0
+    round:finale:name Finale
+    panels {{} all}
+    judges:requested {F G D}
+    judges:finale {F G D}
+    couples:names 116
+    couples:all 116
+    couples:finale 116
+    notes:finale:116:Polka {1 1 1}
+}
+
+folder11 {
+    label {11 SM New W}
+    mode normal
+    dances Waltz
+    attributes:age:ext {}
+    attributes:age:max {}
+    attributes:age:min {}
+    attributes:level {}
+    attributes:type {}
+    levels {semi finale}
+    round:generation auto
+    round:explicitNames 1
+    round:use50%rule 1
+    round:semi:use 1
+    round:semi:split 0
+    round:semi:nb 6
+    round:semi:nbSelected 6
+    round:semi.2:nb 0
+    round:semi:name {1/2 Finale}
+    round:finale:use 1
+    round:finale:split 0
+    round:finale:nb 0
+    round:finale.2:nb 0
+    round:finale:name Finale
+    dances:semi Waltz
+    panels {{} {} all}
+    judges:requested {C E F}
+    judges:semi {C E F}
+    judges:finale {C E F}
+    couples:names {118 119 126 128 130 136 144 158 162}
+    couples:all {118 119 126 128 130 136 144 158 162}
+    couples:semi {118 119 126 128 130 136 144 158 162}
+    couples:finale {118 126 128 130 158 162}
+    exclusion:finale:Waltz {}
+    notes:semi:118:Waltz {1 1 1}
+    notes:semi:119:Waltz {0 0 0}
+    notes:semi:126:Waltz {1 1 1}
+    notes:semi:128:Waltz {1 1 1}
+    notes:semi:130:Waltz {1 1 1}
+    notes:semi:136:Waltz {0 0 0}
+    notes:semi:144:Waltz {1 0 0}
+    notes:semi:158:Waltz {1 1 1}
+    notes:semi:162:Waltz {0 1 1}
+    notes:finale:118:Waltz {4 5 1}
+    notes:finale:126:Waltz {1 3 2}
+    notes:finale:128:Waltz {6 6 6}
+    notes:finale:130:Waltz {2 4 4}
+    notes:finale:158:Waltz {5 1 5}
+    notes:finale:162:Waltz {3 2 3}
+}
+
+folder12 {
+    label {12 SM New T}
+    mode normal
+    dances Tango
+    attributes:age:ext {}
+    attributes:age:max {}
+    attributes:age:min {}
+    attributes:level {}
+    attributes:type {}
+    levels finale
+    round:generation auto
+    round:explicitNames 1
+    round:use50%rule 1
+    round:finale:use 1
+    round:finale:split 0
+    round:finale:nb 0
+    round:finale.2:nb 0
+    round:finale:name Finale
+    panels {{} {} all}
+    judges:requested {C E F}
+    judges:finale {C E F}
+    couples:names {118 128 136 144}
+    couples:all {118 128 136 144}
+    couples:finale {118 128 136 144}
+    exclusion:finale:Tango {}
+    notes:finale:118:Tango {1 1 1}
+    notes:finale:128:Tango {4 4 4}
+    notes:finale:136:Tango {3 2 3}
+    notes:finale:144:Tango {2 3 2}
+}
+
+folder13 {
+    label {13 SM New F}
+    mode normal
+    dances {{Slow Foxtrot}}
+    attributes:age:ext {}
+    attributes:age:max {}
+    attributes:age:min {}
+    attributes:level {}
+    attributes:type {}
+    levels finale
+    round:generation auto
+    round:explicitNames 1
+    round:use50%rule 1
+    round:finale:use 1
+    round:finale:split 0
+    round:finale:nb 0
+    round:finale.2:nb 0
+    round:finale:name Finale
+    panels {{} {} all}
+    judges:requested {C E F}
+    judges:finale {C E F}
+    couples:names {118 126 128 136 144 158 162}
+    couples:all {118 126 128 136 144 158 162}
+    couples:finale {118 126 128 136 144 158 162}
+    {exclusion:finale:Slow Foxtrot} {}
+    {notes:finale:118:Slow Foxtrot} {4 3 1}
+    {notes:finale:126:Slow Foxtrot} {2 5 2}
+    {notes:finale:128:Slow Foxtrot} {7 7 7}
+    {notes:finale:136:Slow Foxtrot} {3 6 6}
+    {notes:finale:144:Slow Foxtrot} {6 4 5}
+    {notes:finale:158:Slow Foxtrot} {1 1 4}
+    {notes:finale:162:Slow Foxtrot} {5 2 3}
+}
+
+folder14 {
+    label {14 SM P/A F-New W}
+    mode normal
+    dances Waltz
+    attributes:age:ext {}
+    attributes:age:max {}
+    attributes:age:min {}
+    attributes:level {}
+    attributes:type {}
+    levels finale
+    round:generation auto
+    round:explicitNames 1
+    round:use50%rule 1
+    round:finale:use 1
+    round:finale:split 0
+    round:finale:nb 0
+    round:finale.2:nb 0
+    round:finale:name Finale
+    panels {{} {} all}
+    judges:requested {C E F}
+    judges:finale {C E F}
+    couples:names {139 142}
+    couples:all {139 142}
+    couples:finale {139 142}
+    notes:finale:139:Waltz {1 1 1}
+    notes:finale:142:Waltz {2 2 2}
+}
+
+folder15 {
+    label {15 SM P/A M-New W}
+    mode normal
+    dances Waltz
+    attributes:age:ext {}
+    attributes:age:max {}
+    attributes:age:min {}
+    attributes:level {}
+    attributes:type {}
+    levels finale
+    round:generation auto
+    round:explicitNames 1
+    round:use50%rule 1
+    round:finale:use 1
+    round:finale:split 0
+    round:finale:nb 0
+    round:finale.2:nb 0
+    round:finale:name Finale
+    panels {{} {} all}
+    judges:requested {C E F}
+    judges:finale {C E F}
+    couples:names {131 138 143 157}
+    couples:all {131 138 143 157}
+    couples:finale {131 138 143 157}
+    notes:finale:131:Waltz {2 3 4}
+    notes:finale:138:Waltz {1 1 1}
+    notes:finale:143:Waltz {4 4 2}
+    notes:finale:157:Waltz {3 2 3}
+}
+
+folder16 {
+    label {16 SM P/A F-New T}
+    mode normal
+    dances Tango
+    attributes:age:ext {}
+    attributes:age:max {}
+    attributes:age:min {}
+    attributes:level {}
+    attributes:type {}
+    levels finale
+    round:generation auto
+    round:explicitNames 1
+    round:use50%rule 1
+    round:finale:use 1
+    round:finale:split 0
+    round:finale:nb 0
+    round:finale.2:nb 0
+    round:finale:name Finale
+    panels {{} {} all}
+    judges:requested {C E F}
+    judges:finale {C E F}
+    couples:names {139 142}
+    couples:all {139 142}
+    couples:finale {139 142}
+    notes:finale:139:Tango {2 1 1}
+    notes:finale:142:Tango {1 2 2}
+}
+
+folder17 {
+    label {17 SM P/A M-New T}
+    mode normal
+    dances Tango
+    attributes:age:ext {}
+    attributes:age:max {}
+    attributes:age:min {}
+    attributes:level {}
+    attributes:type {}
+    levels finale
+    round:generation auto
+    round:explicitNames 1
+    round:use50%rule 1
+    round:finale:use 1
+    round:finale:split 0
+    round:finale:nb 0
+    round:finale.2:nb 0
+    round:finale:name Finale
+    panels {{} {} all}
+    judges:requested {C E F}
+    judges:finale {C E F}
+    couples:names {131 138 143 157}
+    couples:all {131 138 143 157}
+    couples:finale {131 138 143 157}
+    notes:finale:131:Tango {2 1 2}
+    notes:finale:138:Tango {1 2 1}
+    notes:finale:143:Tango {4 3 4}
+    notes:finale:157:Tango {3 4 3}
+}
+
+folder18 {
+    label {18 SM P/A F-New F}
+    mode normal
+    dances {{Slow Foxtrot}}
+    attributes:age:ext {}
+    attributes:age:max {}
+    attributes:age:min {}
+    attributes:level {}
+    attributes:type {}
+    levels finale
+    round:generation auto
+    round:explicitNames 1
+    round:use50%rule 1
+    round:finale:use 1
+    round:finale:split 0
+    round:finale:nb 0
+    round:finale.2:nb 0
+    round:finale:name Finale
+    panels {{} {} all}
+    judges:requested {C E F}
+    judges:finale {C E F}
+    couples:names {139 142}
+    couples:all {139 142}
+    couples:finale {139 142}
+    {notes:finale:139:Slow Foxtrot} {2 2 2}
+    {notes:finale:142:Slow Foxtrot} {1 1 1}
+}
+
+folder19 {
+    label {19 SM P/A M-New F}
+    mode normal
+    dances {{Slow Foxtrot}}
+    attributes:age:ext {}
+    attributes:age:max {}
+    attributes:age:min {}
+    attributes:level {}
+    attributes:type {}
+    levels finale
+    round:generation auto
+    round:explicitNames 1
+    round:use50%rule 1
+    round:finale:use 1
+    round:finale:split 0
+    round:finale:nb 0
+    round:finale.2:nb 0
+    round:finale:name Finale
+    panels {{} {} all}
+    judges:requested {C E F}
+    judges:finale {C E F}
+    couples:names {131 138 157}
+    couples:all {131 138 157}
+    couples:finale {131 138 157}
+    {notes:finale:131:Slow Foxtrot} {2 3 2}
+    {notes:finale:138:Slow Foxtrot} {3 1 3}
+    {notes:finale:157:Slow Foxtrot} {1 2 1}
+}
+
+folder20 {
+    label {20 SM Br W}
+    mode normal
+    dances Waltz
+    attributes:age:ext {}
+    attributes:age:max {}
+    attributes:age:min {}
+    attributes:level {}
+    attributes:type {}
+    levels {quarter semi finale}
+    round:generation user
+    round:explicitNames 1
+    round:use50%rule 1
+    round:quarter:use 1
+    round:quarter:split 0
+    round:quarter:nb 16
+    round:quarter:nbSelected 17
+    round:quarter.2:nb 0
+    round:quarter:name {1/4 Finale}
+    round:semi:use 1
+    round:semi:split 0
+    round:semi:nb 8
+    round:semi:nbSelected 8
+    round:semi.2:nb 0
+    round:semi:name {1/2 Finale}
+    round:finale:use 1
+    round:finale:split 0
+    round:finale:nb 0
+    round:finale.2:nb 0
+    round:finale:name Finale
+    dances:quarter Waltz
+    dances:semi Waltz
+    panels {{} {} all}
+    judges:requested {C E F}
+    judges:quarter {C E F}
+    judges:semi {C E F}
+    judges:finale {C E F}
+    couples:names {104 109 118 122 126 128 129 131 135 136 138 139 142 143 145 157 158 161 162 166 168 169}
+    couples:all {104 109 118 122 126 128 129 131 135 136 138 139 142 143 145 157 158 161 162 166 168 169}
+    couples:quarter {104 109 118 122 126 128 129 131 135 136 138 139 142 143 145 157 158 161 162 166 168 169}
+    couples:semi {104 109 122 126 128 129 131 138 139 142 145 157 158 161 166 168 169}
+    couples:finale {104 128 129 138 142 145 168 169}
+    notes:quarter:104:Waltz {1 1 1}
+    notes:quarter:109:Waltz {1 1 1}
+    notes:quarter:118:Waltz {0 0 1}
+    notes:quarter:122:Waltz {1 1 1}
+    notes:quarter:126:Waltz {1 1 1}
+    notes:quarter:128:Waltz {0 1 1}
+    notes:quarter:129:Waltz {1 1 1}
+    notes:quarter:131:Waltz {1 0 1}
+    notes:quarter:135:Waltz {1 0 0}
+    notes:quarter:136:Waltz {0 1 0}
+    notes:quarter:138:Waltz {1 1 0}
+    notes:quarter:139:Waltz {1 1 0}
+    notes:quarter:142:Waltz {0 1 1}
+    notes:quarter:143:Waltz {0 0 0}
+    notes:quarter:145:Waltz {1 1 1}
+    notes:quarter:157:Waltz {1 0 1}
+    notes:quarter:158:Waltz {1 1 0}
+    notes:quarter:161:Waltz {1 1 1}
+    notes:quarter:162:Waltz {0 0 1}
+    notes:quarter:166:Waltz {1 1 1}
+    notes:quarter:168:Waltz {1 1 1}
+    notes:quarter:169:Waltz {1 1 1}
+    notes:semi:104:Waltz {1 1 0}
+    notes:semi:109:Waltz {1 0 0}
+    notes:semi:122:Waltz {0 0 0}
+    notes:semi:126:Waltz {1 0 0}
+    notes:semi:128:Waltz {1 1 1}
+    notes:semi:129:Waltz {0 1 1}
+    notes:semi:131:Waltz {0 0 0}
+    notes:semi:138:Waltz {1 0 1}
+    notes:semi:139:Waltz {0 1 0}
+    notes:semi:142:Waltz {1 0 1}
+    notes:semi:145:Waltz {0 1 1}
+    notes:semi:157:Waltz {0 0 0}
+    notes:semi:158:Waltz {0 0 0}
+    notes:semi:161:Waltz {0 1 0}
+    notes:semi:166:Waltz {0 0 1}
+    notes:semi:168:Waltz {1 1 1}
+    notes:semi:169:Waltz {1 1 1}
+    notes:finale:104:Waltz {7 8 3}
+    notes:finale:128:Waltz {4 6 4}
+    notes:finale:129:Waltz {8 5 7}
+    notes:finale:138:Waltz {6 7 8}
+    notes:finale:142:Waltz {5 3 6}
+    notes:finale:145:Waltz {3 1 5}
+    notes:finale:168:Waltz {1 4 1}
+    notes:finale:169:Waltz {2 2 2}
+}
+
+folder21 {
+    label {21 SM Br T}
+    mode normal
+    dances Tango
+    attributes:age:ext {}
+    attributes:age:max {}
+    attributes:age:min {}
+    attributes:level {}
+    attributes:type {}
+    levels {quarter semi finale}
+    round:generation auto
+    round:explicitNames 1
+    round:use50%rule 1
+    round:quarter:use 1
+    round:quarter:split 0
+    round:quarter:nb 12
+    round:quarter:nbSelected 12
+    round:quarter.2:nb 0
+    round:quarter:name {1/4 Finale}
+    round:semi:use 1
+    round:semi:split 0
+    round:semi:nb 6
+    round:semi:nbSelected 6
+    round:semi.2:nb 0
+    round:semi:name {1/2 Finale}
+    round:finale:use 1
+    round:finale:split 0
+    round:finale:nb 0
+    round:finale.2:nb 0
+    round:finale:name Finale
+    dances:quarter Tango
+    dances:semi Tango
+    panels {{} {} all}
+    judges:requested {C E F}
+    judges:quarter {C E F}
+    judges:semi {C E F}
+    judges:finale {C E F}
+    couples:names {104 109 118 122 128 129 131 135 136 138 139 142 143 145 157 161 166 168 169}
+    couples:all {104 109 118 122 128 129 131 135 136 138 139 142 143 145 157 161 166 168 169}
+    couples:quarter {104 109 118 122 128 129 131 135 136 138 139 142 143 145 157 161 166 168 169}
+    couples:semi {104 109 122 128 129 136 138 139 145 161 168 169}
+    couples:finale {104 129 139 145 168 169}
+    notes:quarter:104:Tango {1 1 0}
+    notes:quarter:109:Tango {1 1 1}
+    notes:quarter:118:Tango {0 0 1}
+    notes:quarter:122:Tango {1 1 1}
+    notes:quarter:128:Tango {1 0 1}
+    notes:quarter:129:Tango {1 1 1}
+    notes:quarter:131:Tango {1 0 0}
+    notes:quarter:135:Tango {0 1 0}
+    notes:quarter:136:Tango {0 1 1}
+    notes:quarter:138:Tango {1 1 1}
+    notes:quarter:139:Tango {0 1 1}
+    notes:quarter:142:Tango {1 0 0}
+    notes:quarter:143:Tango {0 0 0}
+    notes:quarter:145:Tango {1 1 1}
+    notes:quarter:157:Tango {0 0 0}
+    notes:quarter:161:Tango {1 1 1}
+    notes:quarter:166:Tango {0 0 0}
+    notes:quarter:168:Tango {1 1 1}
+    notes:quarter:169:Tango {1 1 1}
+    notes:semi:104:Tango {1 1 0}
+    notes:semi:109:Tango {1 0 0}
+    notes:semi:122:Tango {0 0 0}
+    notes:semi:128:Tango {0 1 0}
+    notes:semi:129:Tango {1 1 1}
+    notes:semi:136:Tango {0 0 0}
+    notes:semi:138:Tango {0 0 0}
+    notes:semi:139:Tango {0 1 1}
+    notes:semi:145:Tango {1 0 1}
+    notes:semi:161:Tango {0 0 1}
+    notes:semi:168:Tango {1 1 1}
+    notes:semi:169:Tango {1 1 1}
+    notes:finale:104:Tango {5 6 6}
+    notes:finale:129:Tango {3 3 5}
+    notes:finale:139:Tango {6 5 4}
+    notes:finale:145:Tango {4 4 2}
+    notes:finale:168:Tango {1 1 1}
+    notes:finale:169:Tango {2 2 3}
+}
+
+folder22 {
+    label {22 SM Br F}
+    mode normal
+    dances {{Slow Foxtrot}}
+    attributes:age:ext {}
+    attributes:age:max {}
+    attributes:age:min {}
+    attributes:level {}
+    attributes:type {}
+    levels {quarter semi finale}
+    round:generation user
+    round:explicitNames 1
+    round:use50%rule 1
+    round:quarter:use 1
+    round:quarter:split 0
+    round:quarter:nb 14
+    round:quarter:nbSelected 13
+    round:quarter.2:nb 0
+    round:quarter:name {1/4 Finale}
+    round:semi:use 1
+    round:semi:split 0
+    round:semi:nb 7
+    round:semi:nbSelected 6
+    round:semi.2:nb 0
+    round:semi:name {1/2 Finale}
+    round:finale:use 1
+    round:finale:split 0
+    round:finale:nb 0
+    round:finale.2:nb 0
+    round:finale:name Finale
+    dances:quarter {{Slow Foxtrot}}
+    dances:semi {{Slow Foxtrot}}
+    panels {{} {} all}
+    judges:requested {C E F}
+    judges:quarter {C E F}
+    judges:semi {C E F}
+    judges:finale {C E F}
+    couples:names {104 109 118 122 126 128 129 131 135 138 139 142 145 157 158 161 162 166 168 169}
+    couples:all {104 109 118 122 126 128 129 131 135 138 139 142 145 157 158 161 162 166 168 169}
+    couples:quarter {104 109 118 122 126 128 129 131 135 138 139 142 145 157 158 161 162 166 168 169}
+    couples:semi {104 109 122 126 128 129 138 139 145 158 161 168 169}
+    couples:finale {109 128 129 145 168 169}
+    {notes:quarter:104:Slow Foxtrot} {1 1 1}
+    {notes:quarter:109:Slow Foxtrot} {1 1 1}
+    {notes:quarter:118:Slow Foxtrot} {0 1 0}
+    {notes:quarter:122:Slow Foxtrot} {1 1 1}
+    {notes:quarter:126:Slow Foxtrot} {1 1 1}
+    {notes:quarter:128:Slow Foxtrot} {1 1 1}
+    {notes:quarter:129:Slow Foxtrot} {1 1 1}
+    {notes:quarter:131:Slow Foxtrot} {0 0 0}
+    {notes:quarter:135:Slow Foxtrot} {1 0 0}
+    {notes:quarter:138:Slow Foxtrot} {1 1 1}
+    {notes:quarter:139:Slow Foxtrot} {1 0 1}
+    {notes:quarter:142:Slow Foxtrot} {0 1 0}
+    {notes:quarter:145:Slow Foxtrot} {1 1 1}
+    {notes:quarter:157:Slow Foxtrot} {0 1 0}
+    {notes:quarter:158:Slow Foxtrot} {1 0 1}
+    {notes:quarter:161:Slow Foxtrot} {1 1 1}
+    {notes:quarter:162:Slow Foxtrot} {0 0 1}
+    {notes:quarter:166:Slow Foxtrot} {0 1 0}
+    {notes:quarter:168:Slow Foxtrot} {1 0 1}
+    {notes:quarter:169:Slow Foxtrot} {1 1 1}
+    {notes:semi:104:Slow Foxtrot} {0 0 1}
+    {notes:semi:109:Slow Foxtrot} {1 1 1}
+    {notes:semi:122:Slow Foxtrot} {0 0 0}
+    {notes:semi:126:Slow Foxtrot} {1 0 0}
+    {notes:semi:128:Slow Foxtrot} {1 1 1}
+    {notes:semi:129:Slow Foxtrot} {1 1 1}
+    {notes:semi:138:Slow Foxtrot} {0 0 0}
+    {notes:semi:139:Slow Foxtrot} {0 0 1}
+    {notes:semi:145:Slow Foxtrot} {1 1 1}
+    {notes:semi:158:Slow Foxtrot} {0 0 0}
+    {notes:semi:161:Slow Foxtrot} {0 1 0}
+    {notes:semi:168:Slow Foxtrot} {1 1 1}
+    {notes:semi:169:Slow Foxtrot} {1 1 0}
+    {notes:finale:109:Slow Foxtrot} {6 4 6}
+    {notes:finale:128:Slow Foxtrot} {1 3 3}
+    {notes:finale:129:Slow Foxtrot} {5 6 4}
+    {notes:finale:145:Slow Foxtrot} {4 2 5}
+    {notes:finale:168:Slow Foxtrot} {3 1 1}
+    {notes:finale:169:Slow Foxtrot} {2 5 2}
+}
+
+folder23 {
+    label {23 SM Br VW}
+    mode normal
+    dances {{Viennese Waltz}}
+    attributes:age:ext {}
+    attributes:age:max {}
+    attributes:age:min {}
+    attributes:level {}
+    attributes:type {}
+    levels finale
+    round:generation auto
+    round:explicitNames 1
+    round:use50%rule 1
+    round:finale:use 1
+    round:finale:split 0
+    round:finale:nb 0
+    round:finale.2:nb 0
+    round:finale:name Finale
+    panels {{} {} all}
+    judges:requested {C E F}
+    judges:finale {C E F}
+    couples:names {109 122 129 145 161 169}
+    couples:all {109 122 129 145 161 169}
+    couples:finale {109 122 129 145 161 169}
+    {notes:finale:109:Viennese Waltz} {3 5 4}
+    {notes:finale:122:Viennese Waltz} {6 3 5}
+    {notes:finale:129:Viennese Waltz} {5 4 3}
+    {notes:finale:145:Viennese Waltz} {2 6 2}
+    {notes:finale:161:Viennese Waltz} {4 2 6}
+    {notes:finale:169:Viennese Waltz} {1 1 1}
+}
+
+folder24 {
+    label {24 SM Sil W}
+    mode normal
+    dances Waltz
+    attributes:age:ext {}
+    attributes:age:max {}
+    attributes:age:min {}
+    attributes:level {}
+    attributes:type {}
+    levels {semi finale}
+    round:generation user
+    round:explicitNames 1
+    round:use50%rule 1
+    round:semi:use 1
+    round:semi:split 0
+    round:semi:nb 8
+    round:semi:nbSelected 8
+    round:semi.2:nb 0
+    round:semi:name {1/2 Finale}
+    round:finale:use 1
+    round:finale:split 0
+    round:finale:nb 0
+    round:finale.2:nb 0
+    round:finale:name Finale
+    dances:semi Waltz
+    panels {{} {} {} all}
+    judges:requested {A D G}
+    judges:semi {A D G}
+    judges:finale {A D G}
+    couples:names {106 109 122 135 139 142 161 168 169}
+    couples:all {106 109 122 135 139 142 161 168 169}
+    couples:semi {106 109 122 135 139 142 161 168 169}
+    couples:finale {106 122 135 139 142 161 168 169}
+    notes:semi:106:Waltz {1 1 1}
+    notes:semi:109:Waltz {0 0 0}
+    notes:semi:122:Waltz {1 1 1}
+    notes:semi:135:Waltz {1 1 1}
+    notes:semi:139:Waltz {1 1 1}
+    notes:semi:142:Waltz {1 1 1}
+    notes:semi:161:Waltz {1 1 1}
+    notes:semi:168:Waltz {1 1 1}
+    notes:semi:169:Waltz {1 1 1}
+    notes:finale:106:Waltz {1 1 1}
+    notes:finale:122:Waltz {3 8 7}
+    notes:finale:135:Waltz {6 6 6}
+    notes:finale:139:Waltz {5 7 8}
+    notes:finale:142:Waltz {8 5 5}
+    notes:finale:161:Waltz {4 2 3}
+    notes:finale:168:Waltz {2 3 2}
+    notes:finale:169:Waltz {7 4 4}
+}
+
+folder25 {
+    label {25 SM Sil T}
+    mode normal
+    dances Tango
+    attributes:age:ext {}
+    attributes:age:max {}
+    attributes:age:min {}
+    attributes:level {}
+    attributes:type {}
+    levels finale
+    round:generation auto
+    round:explicitNames 1
+    round:use50%rule 1
+    round:finale:use 1
+    round:finale:split 0
+    round:finale:nb 0
+    round:finale.2:nb 0
+    round:finale:name Finale
+    panels {{} {} {} all}
+    judges:requested {A D G}
+    judges:finale {A D G}
+    couples:names {106 109 122 135 142 161 168}
+    couples:all {106 109 122 135 142 161 168}
+    couples:finale {106 109 122 135 142 161 168}
+    exclusion:finale:Tango 109
+    notes:finale:106:Tango {1 1 1}
+    notes:finale:109:Tango {7.0 7.0 7.0}
+    notes:finale:122:Tango {5 5 6}
+    notes:finale:135:Tango {4 4 5}
+    notes:finale:142:Tango {6 6 4}
+    notes:finale:161:Tango {3 3 3}
+    notes:finale:168:Tango {2 2 2}
+}
+
+folder26 {
+    label {26 SM Sil F}
+    mode normal
+    dances {{Slow Foxtrot}}
+    attributes:age:ext {}
+    attributes:age:max {}
+    attributes:age:min {}
+    attributes:level {}
+    attributes:type {}
+    levels {semi finale}
+    round:generation user
+    round:explicitNames 1
+    round:use50%rule 1
+    round:semi:use 1
+    round:semi:split 0
+    round:semi:nb 8
+    round:semi:nbSelected 8
+    round:semi.2:nb 0
+    round:semi:name {1/2 Finale}
+    round:finale:use 1
+    round:finale:split 0
+    round:finale:nb 0
+    round:finale.2:nb 0
+    round:finale:name Finale
+    dances:semi {{Slow Foxtrot}}
+    panels {{} {} {} all}
+    judges:requested {A D G}
+    judges:semi {A D G}
+    judges:finale {A D G}
+    couples:names {106 109 122 135 139 142 161 168 169}
+    couples:all {106 109 122 135 139 142 161 168 169}
+    couples:semi {106 109 122 135 139 142 161 168 169}
+    couples:finale {106 122 135 139 142 161 168 169}
+    {notes:semi:106:Slow Foxtrot} {1 1 1}
+    {notes:semi:109:Slow Foxtrot} {0 0 0}
+    {notes:semi:122:Slow Foxtrot} {1 1 1}
+    {notes:semi:135:Slow Foxtrot} {1 1 1}
+    {notes:semi:139:Slow Foxtrot} {1 1 1}
+    {notes:semi:142:Slow Foxtrot} {1 1 1}
+    {notes:semi:161:Slow Foxtrot} {1 1 1}
+    {notes:semi:168:Slow Foxtrot} {1 1 1}
+    {notes:semi:169:Slow Foxtrot} {1 1 1}
+    {notes:finale:106:Slow Foxtrot} {1 1 1}
+    {notes:finale:122:Slow Foxtrot} {6 7 8}
+    {notes:finale:135:Slow Foxtrot} {7 6 7}
+    {notes:finale:139:Slow Foxtrot} {5 5 6}
+    {notes:finale:142:Slow Foxtrot} {8 8 5}
+    {notes:finale:161:Slow Foxtrot} {3 4 3}
+    {notes:finale:168:Slow Foxtrot} {2 2 2}
+    {notes:finale:169:Slow Foxtrot} {4 3 4}
+}
+
+folder27 {
+    label {27 SM Sil VW}
+    mode normal
+    dances {{Viennese Waltz}}
+    attributes:age:ext {}
+    attributes:age:max {}
+    attributes:age:min {}
+    attributes:level {}
+    attributes:type {}
+    levels finale
+    round:generation auto
+    round:explicitNames 1
+    round:use50%rule 1
+    round:finale:use 1
+    round:finale:split 0
+    round:finale:nb 0
+    round:finale.2:nb 0
+    round:finale:name Finale
+    panels {{} {} {} all}
+    judges:requested {A D G}
+    judges:finale {A D G}
+    couples:names {106 122 161}
+    couples:all {106 122 161}
+    couples:finale {106 122 161}
+    {notes:finale:106:Viennese Waltz} {1 1 1}
+    {notes:finale:122:Viennese Waltz} {3 3 3}
+    {notes:finale:161:Viennese Waltz} {2 2 2}
+}
+
+folder28 {
+    label {28 SM Gld W}
+    mode normal
+    dances Waltz
+    attributes:age:ext {}
+    attributes:age:max {}
+    attributes:age:min {}
+    attributes:level {}
+    attributes:type {}
+    levels finale
+    round:generation auto
+    round:explicitNames 1
+    round:use50%rule 1
+    round:finale:use 1
+    round:finale:split 0
+    round:finale:nb 0
+    round:finale.2:nb 0
+    round:finale:name Finale
+    panels {{} {} {} all}
+    judges:requested {A D G}
+    judges:finale {A D G}
+    couples:names 106
+    couples:all 106
+    couples:finale 106
+    notes:finale:106:Waltz {1 1 1}
+}
+
+folder29 {
+    label {29 SM Gld T}
+    mode normal
+    dances Tango
+    attributes:age:ext {}
+    attributes:age:max {}
+    attributes:age:min {}
+    attributes:level {}
+    attributes:type {}
+    levels finale
+    round:generation auto
+    round:explicitNames 1
+    round:use50%rule 1
+    round:finale:use 1
+    round:finale:split 0
+    round:finale:nb 0
+    round:finale.2:nb 0
+    round:finale:name Finale
+    panels {{} {} {} all}
+    judges:requested {A D G}
+    judges:finale {A D G}
+    couples:names 106
+    couples:all 106
+    couples:finale 106
+    notes:finale:106:Tango {1 1 1}
+}
+
+folder30 {
+    label {30 SM Gld F}
+    mode normal
+    dances {{Slow Foxtrot}}
+    attributes:age:ext {}
+    attributes:age:max {}
+    attributes:age:min {}
+    attributes:level {}
+    attributes:type {}
+    levels finale
+    round:generation auto
+    round:explicitNames 1
+    round:use50%rule 1
+    round:finale:use 1
+    round:finale:split 0
+    round:finale:nb 0
+    round:finale.2:nb 0
+    round:finale:name Finale
+    panels {{} {} {} all}
+    judges:requested {A D G}
+    judges:finale {A D G}
+    couples:names 106
+    couples:all 106
+    couples:finale 106
+    {notes:finale:106:Slow Foxtrot} {1 1 1}
+}
+
+folder31 {
+    label {31 SM Gld VW}
+    mode normal
+    dances {{Viennese Waltz}}
+    attributes:age:ext {}
+    attributes:age:max {}
+    attributes:age:min {}
+    attributes:level {}
+    attributes:type {}
+    levels finale
+    round:generation auto
+    round:explicitNames 1
+    round:use50%rule 1
+    round:finale:use 1
+    round:finale:split 0
+    round:finale:nb 0
+    round:finale.2:nb 0
+    round:finale:name Finale
+    panels {{} {} {} all}
+    judges:requested {A D G}
+    judges:finale {A D G}
+    couples:names 106
+    couples:all 106
+    couples:finale 106
+    {notes:finale:106:Viennese Waltz} {1 1 1}
+}
+
+folder32 {
+    label {32 Int New W}
+    mode normal
+    dances Waltz
+    attributes:age:ext {}
+    attributes:age:max {}
+    attributes:age:min {}
+    attributes:level {}
+    attributes:type {}
+    levels finale
+    round:generation auto
+    round:explicitNames 1
+    round:use50%rule 1
+    round:finale:use 1
+    round:finale:split 0
+    round:finale:nb 0
+    round:finale.2:nb 0
+    round:finale:name Finale
+    panels {{} {} {} {} all}
+    judges:requested {C A D}
+    judges:finale {C A D}
+    couples:names {108 118 120 158 162}
+    couples:all {108 118 120 158 162}
+    couples:finale {108 118 120 158 162}
+    exclusion:finale:Waltz 118
+    notes:finale:108:Waltz {3 1 4}
+    notes:finale:118:Waltz {5.0 5.0 5.0}
+    notes:finale:120:Waltz {2 3 3}
+    notes:finale:158:Waltz {1 2 1}
+    notes:finale:162:Waltz {4 4 2}
+}
+
+folder33 {
+    label {33 Int New T}
+    mode normal
+    dances Tango
+    attributes:age:ext {}
+    attributes:age:max {}
+    attributes:age:min {}
+    attributes:level {}
+    attributes:type {}
+    levels finale
+    round:generation auto
+    round:explicitNames 1
+    round:use50%rule 1
+    round:finale:use 1
+    round:finale:split 0
+    round:finale:nb 0
+    round:finale.2:nb 0
+    round:finale:name Finale
+    panels {{} {} {} {} all}
+    judges:requested {C A D}
+    judges:finale {C A D}
+    couples:names {108 120 158 162}
+    couples:all {108 120 158 162}
+    couples:finale {108 120 158 162}
+    exclusion:finale:Tango 162
+    notes:finale:108:Tango {1 1 3}
+    notes:finale:120:Tango {3 3 2}
+    notes:finale:158:Tango {2 2 1}
+    notes:finale:162:Tango {4.0 4.0 4.0}
+}
+
+folder34 {
+    label {34 Int P/A F-New W}
+    mode normal
+    dances Waltz
+    attributes:age:ext {}
+    attributes:age:max {}
+    attributes:age:min {}
+    attributes:level {}
+    attributes:type {}
+    levels finale
+    round:generation auto
+    round:explicitNames 1
+    round:use50%rule 1
+    round:finale:use 1
+    round:finale:split 0
+    round:finale:nb 0
+    round:finale.2:nb 0
+    round:finale:name Finale
+    panels {{} {} {} {} all}
+    judges:requested {C A D}
+    judges:finale {C A D}
+    couples:names {106 116 148}
+    couples:all {106 116 148}
+    couples:finale {106 116 148}
+    notes:finale:106:Waltz {1 2 1}
+    notes:finale:116:Waltz {2 1 2}
+    notes:finale:148:Waltz {3 3 3}
+}
+
+folder35 {
+    label {35 Int P/A M-New W}
+    mode normal
+    dances Waltz
+    attributes:age:ext {}
+    attributes:age:max {}
+    attributes:age:min {}
+    attributes:level {}
+    attributes:type {}
+    levels finale
+    round:generation auto
+    round:explicitNames 1
+    round:use50%rule 1
+    round:finale:use 1
+    round:finale:split 0
+    round:finale:nb 0
+    round:finale.2:nb 0
+    round:finale:name Finale
+    panels {{} {} {} {} all}
+    judges:requested {C A D}
+    judges:finale {C A D}
+    couples:names {132 137 150 156}
+    couples:all {132 137 150 156}
+    couples:finale {132 137 150 156}
+    notes:finale:132:Waltz {1 1 2}
+    notes:finale:137:Waltz {4 4 1}
+    notes:finale:150:Waltz {3 3 4}
+    notes:finale:156:Waltz {2 2 3}
+}
+
+folder36 {
+    label {36 Int P/A F-New T}
+    mode normal
+    dances Tango
+    attributes:age:ext {}
+    attributes:age:max {}
+    attributes:age:min {}
+    attributes:level {}
+    attributes:type {}
+    levels finale
+    round:generation auto
+    round:explicitNames 1
+    round:use50%rule 1
+    round:finale:use 1
+    round:finale:split 0
+    round:finale:nb 0
+    round:finale.2:nb 0
+    round:finale:name Finale
+    panels {{} {} {} {} all}
+    judges:requested {C A D}
+    judges:finale {C A D}
+    couples:names {106 148}
+    couples:all {106 148}
+    couples:finale {106 148}
+    notes:finale:106:Tango {1 1 1}
+    notes:finale:148:Tango {2 2 2}
+}
+
+folder37 {
+    label {37 Int P/A M-New T}
+    mode normal
+    dances Tango
+    attributes:age:ext {}
+    attributes:age:max {}
+    attributes:age:min {}
+    attributes:level {}
+    attributes:type {}
+    levels finale
+    round:generation auto
+    round:explicitNames 1
+    round:use50%rule 1
+    round:finale:use 1
+    round:finale:split 0
+    round:finale:nb 0
+    round:finale.2:nb 0
+    round:finale:name Finale
+    panels {{} {} {} {} all}
+    judges:requested {C A D}
+    judges:finale {C A D}
+    couples:names {132 137 150 156}
+    couples:all {132 137 150 156}
+    couples:finale {132 137 150 156}
+    notes:finale:132:Tango {1 2 4}
+    notes:finale:137:Tango {4 4 1}
+    notes:finale:150:Tango {2 3 2}
+    notes:finale:156:Tango {3 1 3}
+}
+
+folder38 {
+    label {38 Int Br W}
+    mode normal
+    dances Waltz
+    attributes:age:ext {}
+    attributes:age:max {}
+    attributes:age:min {}
+    attributes:level {}
+    attributes:type {}
+    levels {quarter semi finale}
+    round:generation auto
+    round:explicitNames 1
+    round:use50%rule 1
+    round:quarter:use 1
+    round:quarter:split 0
+    round:quarter:nb 12
+    round:quarter:nbSelected 13
+    round:quarter.2:nb 0
+    round:quarter:name {1/4 Finale}
+    round:semi:use 1
+    round:semi:split 0
+    round:semi:nb 7
+    round:semi:nbSelected 6
+    round:semi.2:nb 0
+    round:semi:name {1/2 Finale}
+    round:finale:use 1
+    round:finale:split 0
+    round:finale:nb 0
+    round:finale.2:nb 0
+    round:finale:name Finale
+    dances:quarter Waltz
+    dances:semi Waltz
+    panels {{} {} {} {} all}
+    judges:requested {C A D}
+    judges:quarter {A C D}
+    judges:semi {A C D}
+    judges:finale {C A D}
+    couples:names {108 120 128 133 140 141 142 145 146 148 149 151 158 160 161 162 168}
+    couples:all {108 120 128 133 140 141 142 145 146 148 149 151 158 160 161 162 168}
+    couples:quarter {108 120 128 133 140 141 142 145 146 148 149 151 158 160 161 162 168}
+    couples:semi {128 133 141 142 145 146 148 149 151 158 160 161 168}
+    couples:finale {128 133 145 146 160 168}
+    notes:quarter:108:Waltz {0 1 0}
+    notes:quarter:120:Waltz {1 0 0}
+    notes:quarter:128:Waltz {0 1 1}
+    notes:quarter:133:Waltz {1 1 1}
+    notes:quarter:140:Waltz {1 0 0}
+    notes:quarter:141:Waltz {1 1 1}
+    notes:quarter:142:Waltz {1 0 1}
+    notes:quarter:145:Waltz {1 1 1}
+    notes:quarter:146:Waltz {1 1 1}
+    notes:quarter:148:Waltz {1 0 1}
+    notes:quarter:149:Waltz {0 1 1}
+    notes:quarter:151:Waltz {1 1 1}
+    notes:quarter:158:Waltz {0 1 1}
+    notes:quarter:160:Waltz {1 1 1}
+    notes:quarter:161:Waltz {1 1 0}
+    notes:quarter:162:Waltz {0 0 0}
+    notes:quarter:168:Waltz {1 1 1}
+    notes:semi:128:Waltz {1 1 1}
+    notes:semi:133:Waltz {1 1 1}
+    notes:semi:141:Waltz {0 0 1}
+    notes:semi:142:Waltz {1 0 0}
+    notes:semi:145:Waltz {1 1 1}
+    notes:semi:146:Waltz {1 1 0}
+    notes:semi:148:Waltz {0 0 1}
+    notes:semi:149:Waltz {0 1 0}
+    notes:semi:151:Waltz {0 1 0}
+    notes:semi:158:Waltz {0 0 0}
+    notes:semi:160:Waltz {1 1 1}
+    notes:semi:161:Waltz {0 0 0}
+    notes:semi:168:Waltz {1 0 1}
+    notes:finale:128:Waltz {1 1 1}
+    notes:finale:133:Waltz {3 3 3}
+    notes:finale:145:Waltz {4 4 4}
+    notes:finale:146:Waltz {5 5 6}
+    notes:finale:160:Waltz {2 2 5}
+    notes:finale:168:Waltz {6 6 2}
+}
+
+folder39 {
+    label {39 Int Br T}
+    mode normal
+    dances Tango
+    attributes:age:ext {}
+    attributes:age:max {}
+    attributes:age:min {}
+    attributes:level {}
+    attributes:type {}
+    levels {quarter semi finale}
+    round:generation user
+    round:explicitNames 1
+    round:use50%rule 1
+    round:quarter:use 1
+    round:quarter:split 0
+    round:quarter:nb 8
+    round:quarter:nbSelected 8
+    round:quarter.2:nb 0
+    round:quarter:name {1/4 Finale}
+    round:semi:use 1
+    round:semi:split 0
+    round:semi:nb 8
+    round:semi:nbSelected 8
+    round:semi.2:nb 0
+    round:semi:name {1/2 Finale}
+    round:finale:use 1
+    round:finale:split 0
+    round:finale:nb 0
+    round:finale.2:nb 0
+    round:finale:name Finale
+    dances:quarter Tango
+    dances:semi Tango
+    panels {{} {} {} {} all}
+    judges:requested {C A D}
+    judges:quarter {A C D}
+    judges:semi {A C D}
+    judges:finale {C A D}
+    couples:names {108 120 128 133 140 141 145 146 148 149 151 158 160 161}
+    couples:all {108 120 128 133 140 141 145 146 148 149 151 158 160 161}
+    couples:quarter {108 120 128 133 140 141 145 146 148 149 151 158 160 161}
+    couples:semi {128 133 141 145 146 148 149 160}
+    couples:finale {128 133 141 145 146 148 149 160}
+    notes:quarter:108:Tango {0 0 0}
+    notes:quarter:120:Tango {0 0 1}
+    notes:quarter:128:Tango {1 1 1}
+    notes:quarter:133:Tango {1 1 1}
+    notes:quarter:140:Tango {0 0 0}
+    notes:quarter:141:Tango {0 1 1}
+    notes:quarter:145:Tango {1 1 1}
+    notes:quarter:146:Tango {1 1 0}
+    notes:quarter:148:Tango {1 1 0}
+    notes:quarter:149:Tango {1 1 1}
+    notes:quarter:151:Tango {0 0 1}
+    notes:quarter:158:Tango {1 0 0}
+    notes:quarter:160:Tango {1 1 1}
+    notes:quarter:161:Tango {0 0 0}
+    notes:semi:128:Tango {1 1 1}
+    notes:semi:133:Tango {1 1 1}
+    notes:semi:141:Tango {1 1 1}
+    notes:semi:145:Tango {1 1 1}
+    notes:semi:146:Tango {1 1 1}
+    notes:semi:148:Tango {1 1 1}
+    notes:semi:149:Tango {1 1 1}
+    notes:semi:160:Tango {1 1 1}
+    notes:finale:128:Tango {6 5 5}
+    notes:finale:133:Tango {4 2 1}
+    notes:finale:141:Tango {8 6 6}
+    notes:finale:145:Tango {3 4 3}
+    notes:finale:146:Tango {2 3 7}
+    notes:finale:148:Tango {7 8 8}
+    notes:finale:149:Tango {1 7 4}
+    notes:finale:160:Tango {5 1 2}
+}
+
+folder40 {
+    label {40 Int Br VW}
+    mode normal
+    dances {{Viennese Waltz}}
+    attributes:age:ext {}
+    attributes:age:max {}
+    attributes:age:min {}
+    attributes:level {}
+    attributes:type {}
+    levels {semi finale}
+    round:generation auto
+    round:explicitNames 1
+    round:use50%rule 1
+    round:semi:use 1
+    round:semi:split 0
+    round:semi:nb 6
+    round:semi:nbSelected 6
+    round:semi.2:nb 0
+    round:semi:name {1/2 Finale}
+    round:finale:use 1
+    round:finale:split 0
+    round:finale:nb 0
+    round:finale.2:nb 0
+    round:finale:name Finale
+    dances:semi {{Viennese Waltz}}
+    panels {{} {} {} {} all}
+    judges:requested {C A D}
+    judges:semi {A C D}
+    judges:finale {C A D}
+    couples:names {133 140 141 145 146 148 149 151 160 161 169}
+    couples:all {133 140 141 145 146 148 149 151 160 161 169}
+    couples:semi {133 140 141 145 146 148 149 151 160 161 169}
+    couples:finale {133 145 148 151 160 169}
+    {notes:semi:133:Viennese Waltz} {1 1 1}
+    {notes:semi:140:Viennese Waltz} {0 0 0}
+    {notes:semi:141:Viennese Waltz} {0 0 0}
+    {notes:semi:145:Viennese Waltz} {1 1 1}
+    {notes:semi:146:Viennese Waltz} {0 0 1}
+    {notes:semi:148:Viennese Waltz} {1 1 0}
+    {notes:semi:149:Viennese Waltz} {1 0 0}
+    {notes:semi:151:Viennese Waltz} {0 1 1}
+    {notes:semi:160:Viennese Waltz} {1 1 1}
+    {notes:semi:161:Viennese Waltz} {0 0 0}
+    {notes:semi:169:Viennese Waltz} {1 1 1}
+    {notes:finale:133:Viennese Waltz} {4 1 2}
+    {notes:finale:145:Viennese Waltz} {5 2 1}
+    {notes:finale:148:Viennese Waltz} {6 6 6}
+    {notes:finale:151:Viennese Waltz} {3 5 5}
+    {notes:finale:160:Viennese Waltz} {2 4 3}
+    {notes:finale:169:Viennese Waltz} {1 3 4}
+}
+
+folder41 {
+    label {41 Int Br F}
+    mode normal
+    dances {{Slow Foxtrot}}
+    attributes:age:ext {}
+    attributes:age:max {}
+    attributes:age:min {}
+    attributes:level {}
+    attributes:type {}
+    levels {semi finale}
+    round:generation auto
+    round:explicitNames 1
+    round:use50%rule 1
+    round:semi:use 1
+    round:semi:split 0
+    round:semi:nb 6
+    round:semi:nbSelected 6
+    round:semi.2:nb 0
+    round:semi:name {1/2 Finale}
+    round:finale:use 1
+    round:finale:split 0
+    round:finale:nb 0
+    round:finale.2:nb 0
+    round:finale:name Finale
+    dances:semi {{Slow Foxtrot}}
+    panels {{} {} {} {} all}
+    judges:requested {C A D}
+    judges:semi {A C D}
+    judges:finale {C A D}
+    couples:names {128 133 140 141 145 146 149 151 161 168}
+    couples:all {128 133 140 141 145 146 149 151 161 168}
+    couples:semi {128 133 140 141 145 146 149 151 161 168}
+    couples:finale {141 145 146 149 161 168}
+    {notes:semi:128:Slow Foxtrot} {0 1 0}
+    {notes:semi:133:Slow Foxtrot} {0 0 0}
+    {notes:semi:140:Slow Foxtrot} {0 0 0}
+    {notes:semi:141:Slow Foxtrot} {1 1 1}
+    {notes:semi:145:Slow Foxtrot} {1 1 1}
+    {notes:semi:146:Slow Foxtrot} {1 1 0}
+    {notes:semi:149:Slow Foxtrot} {1 1 1}
+    {notes:semi:151:Slow Foxtrot} {0 0 1}
+    {notes:semi:161:Slow Foxtrot} {1 0 1}
+    {notes:semi:168:Slow Foxtrot} {1 1 1}
+    {notes:finale:141:Slow Foxtrot} {6 4 2}
+    {notes:finale:145:Slow Foxtrot} {1 1 3}
+    {notes:finale:146:Slow Foxtrot} {4 3 6}
+    {notes:finale:149:Slow Foxtrot} {3 5 4}
+    {notes:finale:161:Slow Foxtrot} {5 6 5}
+    {notes:finale:168:Slow Foxtrot} {2 2 1}
+}
+
+folder42 {
+    label {42 Int Br Q}
+    mode normal
+    dances Quickstep
+    attributes:age:ext {}
+    attributes:age:max {}
+    attributes:age:min {}
+    attributes:level {}
+    attributes:type {}
+    levels {semi finale}
+    round:generation auto
+    round:explicitNames 1
+    round:use50%rule 1
+    round:semi:use 1
+    round:semi:split 0
+    round:semi:nb 6
+    round:semi:nbSelected 6
+    round:semi.2:nb 0
+    round:semi:name {1/2 Finale}
+    round:finale:use 1
+    round:finale:split 0
+    round:finale:nb 0
+    round:finale.2:nb 0
+    round:finale:name Finale
+    dances:semi Quickstep
+    panels {{} {} {} {} all}
+    judges:requested {C A D}
+    judges:semi {A C D}
+    judges:finale {C A D}
+    couples:names {108 120 128 133 140 141 145 146 149 151 161 168}
+    couples:all {108 120 128 133 140 141 145 146 149 151 161 168}
+    couples:semi {108 120 128 133 140 141 145 146 149 151 161 168}
+    couples:finale {128 141 145 146 151 168}
+    notes:semi:108:Quickstep {1 0 0}
+    notes:semi:120:Quickstep {0 0 1}
+    notes:semi:128:Quickstep {1 1 1}
+    notes:semi:133:Quickstep {0 0 0}
+    notes:semi:140:Quickstep {0 0 0}
+    notes:semi:141:Quickstep {1 0 1}
+    notes:semi:145:Quickstep {1 1 1}
+    notes:semi:146:Quickstep {1 1 0}
+    notes:semi:149:Quickstep {0 1 0}
+    notes:semi:151:Quickstep {0 1 1}
+    notes:semi:161:Quickstep {0 0 0}
+    notes:semi:168:Quickstep {1 1 1}
+    notes:finale:128:Quickstep {2 1 1}
+    notes:finale:141:Quickstep {6 5 4}
+    notes:finale:145:Quickstep {1 4 3}
+    notes:finale:146:Quickstep {3 3 6}
+    notes:finale:151:Quickstep {4 6 5}
+    notes:finale:168:Quickstep {5 2 2}
+}
+
+folder43 {
+    label {43 Int Sil W}
+    mode normal
+    dances Waltz
+    attributes:age:ext {}
+    attributes:age:max {}
+    attributes:age:min {}
+    attributes:level {}
+    attributes:type {}
+    levels {quarter semi finale}
+    round:generation user
+    round:explicitNames 1
+    round:use50%rule 1
+    round:quarter:use 1
+    round:quarter:split 0
+    round:quarter:nb 8
+    round:quarter:nbSelected 7
+    round:quarter.2:nb 0
+    round:quarter:name {1/4 Finale}
+    round:semi:use 1
+    round:semi:split 0
+    round:semi:nb 7
+    round:semi:nbSelected 7
+    round:semi.2:nb 0
+    round:semi:name {1/2 Finale}
+    round:finale:use 1
+    round:finale:split 0
+    round:finale:nb 0
+    round:finale.2:nb 0
+    round:finale:name Finale
+    dances:quarter Waltz
+    dances:semi Waltz
+    panels {{} {} {} {} {} all}
+    judges:requested {F G E}
+    judges:quarter {E F G}
+    judges:semi {E F G}
+    judges:finale {F G E}
+    couples:names {101 107 124 125 133 140 141 142 145 146 147 149 160 161 168}
+    couples:all {101 107 124 125 133 140 141 142 145 146 147 149 160 161 168}
+    couples:quarter {101 107 124 125 133 140 141 142 145 146 147 149 160 161 168}
+    couples:semi {124 125 133 141 145 147 160}
+    couples:finale {124 125 133 141 145 147 160}
+    notes:quarter:101:Waltz {1 0 0}
+    notes:quarter:107:Waltz {0 1 0}
+    notes:quarter:124:Waltz {1 0 1}
+    notes:quarter:125:Waltz {1 1 1}
+    notes:quarter:133:Waltz {1 1 0}
+    notes:quarter:140:Waltz {0 0 1}
+    notes:quarter:141:Waltz {1 1 0}
+    notes:quarter:142:Waltz {0 1 0}
+    notes:quarter:145:Waltz {0 1 1}
+    notes:quarter:146:Waltz {0 0 1}
+    notes:quarter:147:Waltz {1 1 1}
+    notes:quarter:149:Waltz {1 0 0}
+    notes:quarter:160:Waltz {0 1 1}
+    notes:quarter:161:Waltz {1 0 0}
+    notes:quarter:168:Waltz {0 0 1}
+    notes:semi:124:Waltz {1 1 1}
+    notes:semi:125:Waltz {1 1 1}
+    notes:semi:133:Waltz {1 1 1}
+    notes:semi:141:Waltz {1 1 1}
+    notes:semi:145:Waltz {1 1 1}
+    notes:semi:147:Waltz {1 1 1}
+    notes:semi:160:Waltz {1 1 1}
+    notes:finale:124:Waltz {1 1 1}
+    notes:finale:125:Waltz {6 4 5}
+    notes:finale:133:Waltz {3 5 3}
+    notes:finale:141:Waltz {5 7 4}
+    notes:finale:145:Waltz {4 2 6}
+    notes:finale:147:Waltz {2 6 2}
+    notes:finale:160:Waltz {7 3 7}
+}
+
+folder44 {
+    label {44 Int Sil T}
+    mode normal
+    dances Tango
+    attributes:age:ext {}
+    attributes:age:max {}
+    attributes:age:min {}
+    attributes:level {}
+    attributes:type {}
+    levels {semi finale}
+    round:generation user
+    round:explicitNames 1
+    round:use50%rule 1
+    round:semi:use 1
+    round:semi:split 0
+    round:semi:nb 7
+    round:semi:nbSelected 5
+    round:semi.2:nb 0
+    round:semi:name {1/2 Finale}
+    round:finale:use 1
+    round:finale:split 0
+    round:finale:nb 0
+    round:finale.2:nb 0
+    round:finale:name Finale
+    dances:quarter Tango
+    dances:semi Tango
+    panels {{} {} {} {} {} all}
+    judges:requested {F G E}
+    judges:semi {E F G}
+    judges:finale {F G E}
+    couples:names {101 107 124 128 133 140 141 145 146 147 149 160 161}
+    couples:all {101 107 124 128 133 140 141 145 146 147 149 160 161}
+    couples:semi {101 107 124 128 133 140 141 145 146 147 149 160 161}
+    couples:finale {124 133 141 145 147}
+    notes:semi:101:Tango {1 0 0}
+    notes:semi:107:Tango {1 0 0}
+    notes:semi:124:Tango {1 1 1}
+    notes:semi:128:Tango {0 0 1}
+    notes:semi:133:Tango {1 1 1}
+    notes:semi:140:Tango {0 1 0}
+    notes:semi:141:Tango {1 1 1}
+    notes:semi:145:Tango {1 0 1}
+    notes:semi:146:Tango {0 1 0}
+    notes:semi:147:Tango {1 1 0}
+    notes:semi:149:Tango {0 0 1}
+    notes:semi:160:Tango {0 1 0}
+    notes:semi:161:Tango {0 0 1}
+    notes:finale:124:Tango {1 1 1}
+    notes:finale:133:Tango {4 5 4}
+    notes:finale:141:Tango {5 4 3}
+    notes:finale:145:Tango {3 2 5}
+    notes:finale:147:Tango {2 3 2}
+}
+
+folder45 {
+    label {45 Int Sil VW}
+    mode normal
+    dances {{Viennese Waltz}}
+    attributes:age:ext {}
+    attributes:age:max {}
+    attributes:age:min {}
+    attributes:level {}
+    attributes:type {}
+    levels {semi finale}
+    round:generation auto
+    round:explicitNames 1
+    round:use50%rule 1
+    round:semi:use 1
+    round:semi:split 0
+    round:semi:nb 6
+    round:semi:nbSelected 6
+    round:semi.2:nb 0
+    round:semi:name {1/2 Finale}
+    round:finale:use 1
+    round:finale:split 0
+    round:finale:nb 0
+    round:finale.2:nb 0
+    round:finale:name Finale
+    dances:semi {{Viennese Waltz}}
+    panels {{} {} {} {} {} all}
+    judges:requested {F G E}
+    judges:semi {E F G}
+    judges:finale {F G E}
+    couples:names {107 124 133 140 141 145 146 147 149 160 161}
+    couples:all {107 124 133 140 141 145 146 147 149 160 161}
+    couples:semi {107 124 133 140 141 145 146 147 149 160 161}
+    couples:finale {107 124 133 141 145 147}
+    {notes:semi:107:Viennese Waltz} {1 1 1}
+    {notes:semi:124:Viennese Waltz} {1 1 1}
+    {notes:semi:133:Viennese Waltz} {1 1 1}
+    {notes:semi:140:Viennese Waltz} {0 0 0}
+    {notes:semi:141:Viennese Waltz} {1 1 1}
+    {notes:semi:145:Viennese Waltz} {0 1 1}
+    {notes:semi:146:Viennese Waltz} {1 0 0}
+    {notes:semi:147:Viennese Waltz} {1 1 0}
+    {notes:semi:149:Viennese Waltz} {0 0 0}
+    {notes:semi:160:Viennese Waltz} {0 0 0}
+    {notes:semi:161:Viennese Waltz} {0 0 1}
+    {notes:finale:107:Viennese Waltz} {3 2 3}
+    {notes:finale:124:Viennese Waltz} {1 1 2}
+    {notes:finale:133:Viennese Waltz} {4 3 5}
+    {notes:finale:141:Viennese Waltz} {6 4 4}
+    {notes:finale:145:Viennese Waltz} {5 6 6}
+    {notes:finale:147:Viennese Waltz} {2 5 1}
+}
+
+folder46 {
+    label {46 Int Sil F}
+    mode normal
+    dances {{Slow Foxtrot}}
+    attributes:age:ext {}
+    attributes:age:max {}
+    attributes:age:min {}
+    attributes:level {}
+    attributes:type {}
+    levels {semi finale}
+    round:generation auto
+    round:explicitNames 1
+    round:use50%rule 1
+    round:semi:use 1
+    round:semi:split 0
+    round:semi:nb 6
+    round:semi:nbSelected 7
+    round:semi.2:nb 0
+    round:semi:name {1/2 Finale}
+    round:finale:use 1
+    round:finale:split 0
+    round:finale:nb 0
+    round:finale.2:nb 0
+    round:finale:name Finale
+    dances:semi {{Slow Foxtrot}}
+    panels {{} {} {} {} {} all}
+    judges:requested {F G E}
+    judges:semi {E F G}
+    judges:finale {F G E}
+    couples:names {101 107 124 125 133 140 141 145 146 147 149 161}
+    couples:all {101 107 124 125 133 140 141 145 146 147 149 161}
+    couples:semi {101 107 124 125 133 140 141 145 146 147 149 161}
+    couples:finale {107 124 125 133 145 147 161}
+    {notes:semi:101:Slow Foxtrot} {0 0 0}
+    {notes:semi:107:Slow Foxtrot} {1 1 1}
+    {notes:semi:124:Slow Foxtrot} {1 1 1}
+    {notes:semi:125:Slow Foxtrot} {0 1 1}
+    {notes:semi:133:Slow Foxtrot} {1 1 0}
+    {notes:semi:140:Slow Foxtrot} {0 0 0}
+    {notes:semi:141:Slow Foxtrot} {0 0 1}
+    {notes:semi:145:Slow Foxtrot} {0 1 1}
+    {notes:semi:146:Slow Foxtrot} {1 0 0}
+    {notes:semi:147:Slow Foxtrot} {1 1 0}
+    {notes:semi:149:Slow Foxtrot} {0 0 0}
+    {notes:semi:161:Slow Foxtrot} {1 0 1}
+    {notes:finale:107:Slow Foxtrot} {5 4 2}
+    {notes:finale:124:Slow Foxtrot} {2 1 1}
+    {notes:finale:125:Slow Foxtrot} {6 6 5}
+    {notes:finale:133:Slow Foxtrot} {4 5 4}
+    {notes:finale:145:Slow Foxtrot} {3 2 6}
+    {notes:finale:147:Slow Foxtrot} {1 7 3}
+    {notes:finale:161:Slow Foxtrot} {7 3 7}
+}
+
+folder47 {
+    label {47 Int Sil Q}
+    mode normal
+    dances Quickstep
+    attributes:age:ext {}
+    attributes:age:max {}
+    attributes:age:min {}
+    attributes:level {}
+    attributes:type {}
+    levels {semi finale}
+    round:generation user
+    round:explicitNames 1
+    round:use50%rule 1
+    round:semi:use 1
+    round:semi:split 0
+    round:semi:nb 7
+    round:semi:nbSelected 5
+    round:semi.2:nb 0
+    round:semi:name {1/2 Finale}
+    round:finale:use 1
+    round:finale:split 0
+    round:finale:nb 0
+    round:finale.2:nb 0
+    round:finale:name Finale
+    dances:quarter Quickstep
+    dances:semi Quickstep
+    panels {{} {} {} {} {} all}
+    judges:requested {F G E}
+    judges:semi {E F G}
+    judges:finale {F G E}
+    couples:names {101 107 124 125 128 133 140 141 145 146 147 149 161}
+    couples:all {101 107 124 125 128 133 140 141 145 146 147 149 161}
+    couples:semi {101 107 124 125 128 133 140 141 145 146 147 149 161}
+    couples:finale {107 124 133 141 147}
+    notes:semi:101:Quickstep {1 0 0}
+    notes:semi:107:Quickstep {1 1 1}
+    notes:semi:124:Quickstep {1 1 1}
+    notes:semi:125:Quickstep {0 0 1}
+    notes:semi:128:Quickstep {1 0 0}
+    notes:semi:133:Quickstep {1 1 0}
+    notes:semi:140:Quickstep {0 0 1}
+    notes:semi:141:Quickstep {1 1 0}
+    notes:semi:145:Quickstep {0 0 1}
+    notes:semi:146:Quickstep {0 1 0}
+    notes:semi:147:Quickstep {1 1 1}
+    notes:semi:149:Quickstep {0 1 0}
+    notes:semi:161:Quickstep {0 0 1}
+    notes:finale:107:Quickstep {4 5 3}
+    notes:finale:124:Quickstep {1 1 2}
+    notes:finale:133:Quickstep {3 3 5}
+    notes:finale:141:Quickstep {5 2 4}
+    notes:finale:147:Quickstep {2 4 1}
+}
+
+folder48 {
+    label {48 Int Gld W}
+    mode normal
+    dances Waltz
+    attributes:age:ext {}
+    attributes:age:max {}
+    attributes:age:min {}
+    attributes:level {}
+    attributes:type {}
+    levels finale
+    round:generation auto
+    round:explicitNames 1
+    round:use50%rule 1
+    round:finale:use 1
+    round:finale:split 0
+    round:finale:nb 0
+    round:finale.2:nb 0
+    round:finale:name Finale
+    panels {{} {} {} {} {} all}
+    judges:requested {F G E}
+    judges:finale {F G E}
+    couples:names {101 106 107 116 124 147}
+    couples:all {101 106 107 116 124 147}
+    couples:finale {101 106 107 116 124 147}
+    exclusion:finale:Waltz 124
+    notes:finale:101:Waltz {4 2 3}
+    notes:finale:106:Waltz {1 1 1}
+    notes:finale:107:Waltz {5 4 4}
+    notes:finale:116:Waltz {2 5 2}
+    notes:finale:124:Waltz {6.0 6.0 6.0}
+    notes:finale:147:Waltz {3 3 5}
+}
+
+folder49 {
+    label {49 Int Gld T}
+    mode normal
+    dances Tango
+    attributes:age:ext {}
+    attributes:age:max {}
+    attributes:age:min {}
+    attributes:level {}
+    attributes:type {}
+    levels finale
+    round:generation auto
+    round:explicitNames 1
+    round:use50%rule 1
+    round:finale:use 1
+    round:finale:split 0
+    round:finale:nb 0
+    round:finale.2:nb 0
+    round:finale:name Finale
+    panels {{} {} {} {} {} all}
+    judges:requested {F G E}
+    judges:finale {F G E}
+    couples:names {101 106 107 116 124 147}
+    couples:all {101 106 107 116 124 147}
+    couples:finale {101 106 107 116 124 147}
+    exclusion:finale:Tango 124
+    notes:finale:101:Tango {3 2 4}
+    notes:finale:106:Tango {1 1 1}
+    notes:finale:107:Tango {5 4 3}
+    notes:finale:116:Tango {2 5 2}
+    notes:finale:124:Tango {6.0 6.0 6.0}
+    notes:finale:147:Tango {4 3 5}
+}
+
+folder50 {
+    label {50 Int Gld VW}
+    mode normal
+    dances {{Viennese Waltz}}
+    attributes:age:ext {}
+    attributes:age:max {}
+    attributes:age:min {}
+    attributes:level {}
+    attributes:type {}
+    levels finale
+    round:generation auto
+    round:explicitNames 1
+    round:use50%rule 1
+    round:finale:use 1
+    round:finale:split 0
+    round:finale:nb 0
+    round:finale.2:nb 0
+    round:finale:name Finale
+    panels {{} {} {} {} {} all}
+    judges:requested {F G E}
+    judges:finale {F G E}
+    couples:names {106 107 116 124 147}
+    couples:all {106 107 116 124 147}
+    couples:finale {106 107 116 124 147}
+    {exclusion:finale:Viennese Waltz} 124
+    {notes:finale:106:Viennese Waltz} {1 1 1}
+    {notes:finale:107:Viennese Waltz} {2 4 3}
+    {notes:finale:116:Viennese Waltz} {3 2 2}
+    {notes:finale:124:Viennese Waltz} {5.0 5.0 5.0}
+    {notes:finale:147:Viennese Waltz} {4 3 4}
+}
+
+folder51 {
+    label {51 Int Gld Q}
+    mode normal
+    dances Quickstep
+    attributes:age:ext {}
+    attributes:age:max {}
+    attributes:age:min {}
+    attributes:level {}
+    attributes:type {}
+    levels finale
+    round:generation auto
+    round:explicitNames 1
+    round:use50%rule 1
+    round:finale:use 1
+    round:finale:split 0
+    round:finale:nb 0
+    round:finale.2:nb 0
+    round:finale:name Finale
+    panels {{} {} {} {} {} all}
+    judges:requested {F G E}
+    judges:finale {F G E}
+    couples:names {101 106 107 116 124 147}
+    couples:all {101 106 107 116 124 147}
+    couples:finale {101 106 107 116 124 147}
+    exclusion:finale:Quickstep 124
+    notes:finale:101:Quickstep {5 2 3}
+    notes:finale:106:Quickstep {1 1 1}
+    notes:finale:107:Quickstep {3 4 4}
+    notes:finale:116:Quickstep {4 3 2}
+    notes:finale:124:Quickstep {6.0 6.0 6.0}
+    notes:finale:147:Quickstep {2 5 5}
+}
+
+folder52 {
+    label {52 Int Gld F}
+    mode normal
+    dances {{Slow Foxtrot}}
+    attributes:age:ext {}
+    attributes:age:max {}
+    attributes:age:min {}
+    attributes:level {}
+    attributes:type {}
+    levels finale
+    round:generation auto
+    round:explicitNames 1
+    round:use50%rule 1
+    round:finale:use 1
+    round:finale:split 0
+    round:finale:nb 0
+    round:finale.2:nb 0
+    round:finale:name Finale
+    panels {{} {} {} {} {} all}
+    judges:requested {F G E}
+    judges:finale {F G E}
+    couples:names {101 106 107 116 124 147}
+    couples:all {101 106 107 116 124 147}
+    couples:finale {101 106 107 116 124 147}
+    {exclusion:finale:Slow Foxtrot} 124
+    {notes:finale:101:Slow Foxtrot} {5 2 4}
+    {notes:finale:106:Slow Foxtrot} {1 1 1}
+    {notes:finale:107:Slow Foxtrot} {4 5 3}
+    {notes:finale:116:Slow Foxtrot} {2 3 2}
+    {notes:finale:124:Slow Foxtrot} {6.0 6.0 6.0}
+    {notes:finale:147:Slow Foxtrot} {3 4 5}
+}
+
+folder53 {
+    label {100 Soc Beg Mer}
+    mode normal
+    dances Merenuge
+    attributes:age:ext {}
+    attributes:age:max {}
+    attributes:age:min {}
+    attributes:level {}
+    attributes:type {}
+    levels {semi finale}
+    round:generation auto
+    round:explicitNames 1
+    round:use50%rule 1
+    round:semi:use 1
+    round:semi:split 0
+    round:semi:nb 6
+    round:semi:nbSelected 5
+    round:semi.2:nb 0
+    round:semi:name {1/2 Finale}
+    round:finale:use 1
+    round:finale:split 0
+    round:finale:nb 0
+    round:finale.2:nb 0
+    round:finale:name Finale
+    dances:semi Merenuge
+    panels {{} {} {} {} {} {} all}
+    judges:requested {B D G}
+    judges:semi {B D G}
+    judges:finale {B D G}
+    couples:names {113 122 131 135 136 138 139 142 148 157 169}
+    couples:all {113 122 131 135 136 138 139 142 148 157 169}
+    couples:semi {113 122 131 135 136 138 139 142 148 157 169}
+    couples:finale {113 131 138 148 169}
+    notes:semi:113:Merenuge {1 1 1}
+    notes:semi:122:Merenuge {1 0 0}
+    notes:semi:131:Merenuge {1 1 1}
+    notes:semi:135:Merenuge {0 0 0}
+    notes:semi:136:Merenuge {0 1 0}
+    notes:semi:138:Merenuge {0 1 1}
+    notes:semi:139:Merenuge {0 1 0}
+    notes:semi:142:Merenuge {1 0 0}
+    notes:semi:148:Merenuge {1 1 1}
+    notes:semi:157:Merenuge {0 0 1}
+    notes:semi:169:Merenuge {1 0 1}
+    notes:finale:113:Merenuge {1 1 2}
+    notes:finale:131:Merenuge {4 5 5}
+    notes:finale:138:Merenuge {2 4 3}
+    notes:finale:148:Merenuge {3 3 4}
+    notes:finale:169:Merenuge {5 2 1}
+}
+
+folder54 {
+    label {101 Soc Beg Bachata}
+    mode normal
+    dances Batchata
+    attributes:age:ext {}
+    attributes:age:max {}
+    attributes:age:min {}
+    attributes:level {}
+    attributes:type {}
+    levels {semi finale}
+    round:generation auto
+    round:explicitNames 1
+    round:use50%rule 1
+    round:semi:use 1
+    round:semi:split 0
+    round:semi:nb 6
+    round:semi:nbSelected 6
+    round:semi.2:nb 0
+    round:semi:name {1/2 Finale}
+    round:finale:use 1
+    round:finale:split 0
+    round:finale:nb 0
+    round:finale.2:nb 0
+    round:finale:name Finale
+    dances:semi Batchata
+    panels {{} {} {} {} {} {} all}
+    judges:requested {B D G}
+    judges:semi {B D G}
+    judges:finale {B D G}
+    couples:names {113 115 122 131 135 136 139 142 148 152 158 169}
+    couples:all {113 115 122 131 135 136 139 142 148 152 158 169}
+    couples:semi {113 115 122 131 135 136 139 142 148 152 158 169}
+    couples:finale {113 136 148 152 158 169}
+    notes:semi:113:Batchata {0 1 1}
+    notes:semi:115:Batchata {0 0 0}
+    notes:semi:122:Batchata {1 0 0}
+    notes:semi:131:Batchata {0 0 1}
+    notes:semi:135:Batchata {0 0 0}
+    notes:semi:136:Batchata {1 1 0}
+    notes:semi:139:Batchata {0 1 0}
+    notes:semi:142:Batchata {1 0 0}
+    notes:semi:148:Batchata {1 1 1}
+    notes:semi:152:Batchata {1 0 1}
+    notes:semi:158:Batchata {0 1 1}
+    notes:semi:169:Batchata {1 1 1}
+    notes:finale:113:Batchata {2 3 2}
+    notes:finale:136:Batchata {6 1 6}
+    notes:finale:148:Batchata {1 5 3}
+    notes:finale:152:Batchata {4 4 5}
+    notes:finale:158:Batchata {5 6 4}
+    notes:finale:169:Batchata {3 2 1}
+}
+
+folder55 {
+    label {102 Soc Beg AT}
+    mode normal
+    dances Tango
+    attributes:age:ext {}
+    attributes:age:max {}
+    attributes:age:min {}
+    attributes:level {}
+    attributes:type {}
+    levels finale
+    round:generation auto
+    round:explicitNames 1
+    round:use50%rule 1
+    round:finale:use 1
+    round:finale:split 0
+    round:finale:nb 0
+    round:finale.2:nb 0
+    round:finale:name Finale
+    panels {{} {} {} {} {} {} all}
+    judges:requested {B D G}
+    judges:finale {B D G}
+    couples:names {122 136 138 139 142}
+    couples:all {122 136 138 139 142}
+    couples:finale {122 136 138 139 142}
+    notes:finale:122:Tango {4 4 1}
+    notes:finale:136:Tango {2 2 5}
+    notes:finale:138:Tango {3 3 4}
+    notes:finale:139:Tango {5 1 3}
+    notes:finale:142:Tango {1 5 2}
+}
+
+folder56 {
+    label {103 Soc Beg Sal}
+    mode normal
+    dances Salsa
+    attributes:age:ext {}
+    attributes:age:max {}
+    attributes:age:min {}
+    attributes:level {}
+    attributes:type {}
+    levels {semi finale}
+    round:generation user
+    round:explicitNames 1
+    round:use50%rule 1
+    round:semi:use 1
+    round:semi:split 0
+    round:semi:nb 7
+    round:semi:nbSelected 6
+    round:semi.2:nb 0
+    round:semi:name {1/2 Finale}
+    round:finale:use 1
+    round:finale:split 0
+    round:finale:nb 0
+    round:finale.2:nb 0
+    round:finale:name Finale
+    dances:quarter Salsa
+    dances:semi Salsa
+    panels {{} {} {} {} {} {} all}
+    judges:requested {B D G}
+    judges:semi {B D G}
+    judges:finale {B D G}
+    couples:names {113 114 118 122 131 134 135 136 138 139 142 148 152 158}
+    couples:all {113 114 118 122 131 134 135 136 138 139 142 148 152 158}
+    couples:semi {113 114 118 122 131 134 135 136 138 139 142 148 152 158}
+    couples:finale {113 122 139 142 152 158}
+    notes:semi:113:Salsa {1 1 1}
+    notes:semi:114:Salsa {0 0 0}
+    notes:semi:118:Salsa {1 0 0}
+    notes:semi:122:Salsa {1 1 1}
+    notes:semi:131:Salsa {0 0 0}
+    notes:semi:134:Salsa {0 0 1}
+    notes:semi:135:Salsa {0 0 0}
+    notes:semi:136:Salsa {0 1 0}
+    notes:semi:138:Salsa {1 0 0}
+    notes:semi:139:Salsa {1 1 1}
+    notes:semi:142:Salsa {0 1 1}
+    notes:semi:148:Salsa {0 0 0}
+    notes:semi:152:Salsa {1 1 1}
+    notes:semi:158:Salsa {1 1 1}
+    notes:finale:113:Salsa {2 3 1}
+    notes:finale:122:Salsa {1 5 6}
+    notes:finale:139:Salsa {5 2 2}
+    notes:finale:142:Salsa {6 1 3}
+    notes:finale:152:Salsa {4 6 4}
+    notes:finale:158:Salsa {3 4 5}
+}
+
+folder57 {
+    label {104 Soc Beg Hustle}
+    mode normal
+    dances Hustle
+    attributes:age:ext {}
+    attributes:age:max {}
+    attributes:age:min {}
+    attributes:level {}
+    attributes:type {}
+    levels finale
+    round:generation auto
+    round:explicitNames 1
+    round:use50%rule 1
+    round:finale:use 1
+    round:finale:split 0
+    round:finale:nb 0
+    round:finale.2:nb 0
+    round:finale:name Finale
+    panels {{} {} {} {} {} {} all}
+    judges:requested {B D G}
+    judges:finale {B D G}
+    couples:names {113 131 134 139 142 148 152}
+    couples:all {113 131 134 139 142 148 152}
+    couples:finale {113 131 134 139 142 148 152}
+    notes:finale:113:Hustle {1 5 1}
+    notes:finale:131:Hustle {3 7 7}
+    notes:finale:134:Hustle {5 1 5}
+    notes:finale:139:Hustle {6 3 3}
+    notes:finale:142:Hustle {2 4 4}
+    notes:finale:148:Hustle {4 6 6}
+    notes:finale:152:Hustle {7 2 2}
+}
+
+folder58 {
+    label {105 Soc Beg  WCS}
+    mode normal
+    dances {{West Coast Swing}}
+    attributes:age:ext {}
+    attributes:age:max {}
+    attributes:age:min {}
+    attributes:level {}
+    attributes:type {}
+    levels {semi finale}
+    round:generation user
+    round:explicitNames 1
+    round:use50%rule 1
+    round:semi:use 1
+    round:semi:split 0
+    round:semi:nb 7
+    round:semi:nbSelected 6
+    round:semi.2:nb 0
+    round:semi:name {1/2 Finale}
+    round:finale:use 1
+    round:finale:split 0
+    round:finale:nb 0
+    round:finale.2:nb 0
+    round:finale:name Finale
+    dances:quarter {{West Coast Swing}}
+    dances:semi {{West Coast Swing}}
+    panels {{} {} {} {} {} {} all}
+    judges:requested {B D G}
+    judges:semi {B D G}
+    judges:finale {B D G}
+    couples:names {104 109 113 114 118 122 134 138 139 142 144 148 161}
+    couples:all {104 109 113 114 118 122 134 138 139 142 144 148 161}
+    couples:semi {104 109 113 114 118 122 134 138 139 142 144 148 161}
+    couples:finale {113 114 122 134 139 142}
+    {notes:semi:104:West Coast Swing} {1 0 0}
+    {notes:semi:109:West Coast Swing} {0 1 0}
+    {notes:semi:113:West Coast Swing} {1 1 1}
+    {notes:semi:114:West Coast Swing} {1 1 0}
+    {notes:semi:118:West Coast Swing} {0 0 1}
+    {notes:semi:122:West Coast Swing} {1 1 0}
+    {notes:semi:134:West Coast Swing} {1 1 1}
+    {notes:semi:138:West Coast Swing} {0 1 0}
+    {notes:semi:139:West Coast Swing} {0 1 1}
+    {notes:semi:142:West Coast Swing} {1 0 1}
+    {notes:semi:144:West Coast Swing} {1 0 0}
+    {notes:semi:148:West Coast Swing} {0 0 1}
+    {notes:semi:161:West Coast Swing} {0 0 1}
+    {notes:finale:113:West Coast Swing} {2 4 1}
+    {notes:finale:114:West Coast Swing} {6 2 4}
+    {notes:finale:122:West Coast Swing} {1 1 6}
+    {notes:finale:134:West Coast Swing} {5 6 5}
+    {notes:finale:139:West Coast Swing} {4 3 2}
+    {notes:finale:142:West Coast Swing} {3 5 3}
+}
+
+folder59 {
+    label {106 Soc Int Mer}
+    mode normal
+    dances Mer
+    attributes:age:ext {}
+    attributes:age:max {}
+    attributes:age:min {}
+    attributes:level {}
+    attributes:type {}
+    levels finale
+    round:generation auto
+    round:explicitNames 1
+    round:use50%rule 1
+    round:finale:use 1
+    round:finale:split 0
+    round:finale:nb 0
+    round:finale.2:nb 0
+    round:finale:name Finale
+    panels {{} {} {} {} {} {} all}
+    judges:requested {B D G}
+    judges:finale {B D G}
+    couples:names {101 103 105 107 117 167}
+    couples:all {101 103 105 107 117 167}
+    couples:finale {101 103 105 107 117 167}
+    exclusion:finale:Mer 105
+    notes:finale:101:Mer {2 2 1}
+    notes:finale:103:Mer {4 3 4}
+    notes:finale:105:Mer {6.0 6.0 6.0}
+    notes:finale:107:Mer {3 1 3}
+    notes:finale:117:Mer {5 5 5}
+    notes:finale:167:Mer {1 4 2}
+}
+
+folder60 {
+    label {107 Soc Int Bachata}
+    mode normal
+    dances Bachata
+    attributes:age:ext {}
+    attributes:age:max {}
+    attributes:age:min {}
+    attributes:level {}
+    attributes:type {}
+    levels finale
+    round:generation auto
+    round:explicitNames 1
+    round:use50%rule 1
+    round:finale:use 1
+    round:finale:split 0
+    round:finale:nb 0
+    round:finale.2:nb 0
+    round:finale:name Finale
+    panels {{} {} {} {} {} {} all}
+    judges:requested {B D G}
+    judges:finale {B D G}
+    couples:names {101 103 105 107 167 169}
+    couples:all {101 103 105 107 167 169}
+    couples:finale {101 103 105 107 167 169}
+    exclusion:finale:Bachata 105
+    notes:finale:101:Bachata {2 2 2}
+    notes:finale:103:Bachata {3 3 5}
+    notes:finale:105:Bachata {6.0 6.0 6.0}
+    notes:finale:107:Bachata {5 1 3}
+    notes:finale:167:Bachata {1 4 4}
+    notes:finale:169:Bachata {4 5 1}
+}
+
+folder62 {
+    label {109 Soc Int Sal}
+    mode normal
+    dances Salsa
+    attributes:age:ext {}
+    attributes:age:max {}
+    attributes:age:min {}
+    attributes:level {}
+    attributes:type {}
+    levels finale
+    round:generation auto
+    round:explicitNames 1
+    round:use50%rule 1
+    round:finale:use 1
+    round:finale:split 0
+    round:finale:nb 0
+    round:finale.2:nb 0
+    round:finale:name Finale
+    panels {{} {} {} {} {} {} all}
+    judges:requested {B D G}
+    judges:finale {B D G}
+    couples:names {101 103 105 107 114 167}
+    couples:all {101 103 105 107 114 167}
+    couples:finale {101 103 105 107 114 167}
+    exclusion:finale:Salsa 105
+    notes:finale:101:Salsa {1 3 1}
+    notes:finale:103:Salsa {5 2 4}
+    notes:finale:105:Salsa {6.0 6.0 6.0}
+    notes:finale:107:Salsa {3 1 3}
+    notes:finale:114:Salsa {4 5 5}
+    notes:finale:167:Salsa {2 4 2}
+}
+
+folder63 {
+    label {110 Soc Int Hustle}
+    mode normal
+    dances Hustle
+    attributes:age:ext {}
+    attributes:age:max {}
+    attributes:age:min {}
+    attributes:level {}
+    attributes:type {}
+    levels finale
+    round:generation auto
+    round:explicitNames 1
+    round:use50%rule 1
+    round:finale:use 1
+    round:finale:split 0
+    round:finale:nb 0
+    round:finale.2:nb 0
+    round:finale:name Finale
+    panels {{} {} {} {} {} {} all}
+    judges:requested {B D G}
+    judges:finale {B D G}
+    couples:names {107 135}
+    couples:all {107 135}
+    couples:finale {107 135}
+    exclusion:finale:Hustle 135
+    notes:finale:107:Hustle {1 1 1}
+    notes:finale:135:Hustle {2.0 2.0 2.0}
+}
+
+folder64 {
+    label {111 Soc Int WCS}
+    mode normal
+    dances {{West Coast Swing}}
+    attributes:age:ext {}
+    attributes:age:max {}
+    attributes:age:min {}
+    attributes:level {}
+    attributes:type {}
+    levels finale
+    round:generation auto
+    round:explicitNames 1
+    round:use50%rule 1
+    round:finale:use 1
+    round:finale:split 0
+    round:finale:nb 0
+    round:finale.2:nb 0
+    round:finale:name Finale
+    panels {{} {} {} {} {} {} all}
+    judges:requested {B D G}
+    judges:finale {B D G}
+    couples:names {105 107 116 129 160}
+    couples:all {105 107 116 129 160}
+    couples:finale {105 107 116 129 160}
+    {exclusion:finale:West Coast Swing} 105
+    {notes:finale:105:West Coast Swing} {5.0 5.0 5.0}
+    {notes:finale:107:West Coast Swing} {2 2 3}
+    {notes:finale:116:West Coast Swing} {1 1 2}
+    {notes:finale:129:West Coast Swing} {3 3 4}
+    {notes:finale:160:West Coast Swing} {4 4 1}
+}
+
+folder65 {
+    label {53 Rhy New C}
+    mode normal
+    dances {{Cha Cha}}
+    attributes:age:ext {}
+    attributes:age:max {}
+    attributes:age:min {}
+    attributes:level {}
+    attributes:type {}
+    levels finale
+    round:generation user
+    round:explicitNames 1
+    round:use50%rule 1
+    round:finale:use 1
+    round:finale:split 0
+    round:finale:nb 0
+    round:finale.2:nb 0
+    round:finale:name Finale
+    dances:semi {{Cha Cha}}
+    panels {{} {} {} {} {} {} {} all}
+    judges:requested {F A E}
+    judges:finale {F A E}
+    couples:names {118 119 126 130 136 144 158 162}
+    couples:all {118 119 126 130 136 144 158 162}
+    couples:finale {118 119 126 130 136 144 158 162}
+    {notes:finale:118:Cha Cha} {2 2 2}
+    {notes:finale:119:Cha Cha} {5 3 6}
+    {notes:finale:126:Cha Cha} {1 1 1}
+    {notes:finale:130:Cha Cha} {3 4 4}
+    {notes:finale:136:Cha Cha} {7 8 8}
+    {notes:finale:144:Cha Cha} {4 5 5}
+    {notes:finale:158:Cha Cha} {8 6 7}
+    {notes:finale:162:Cha Cha} {6 7 3}
+}
+
+folder66 {
+    label {54 Rhy New R}
+    mode normal
+    dances Rumba
+    attributes:age:ext {}
+    attributes:age:max {}
+    attributes:age:min {}
+    attributes:level {}
+    attributes:type {}
+    levels finale
+    round:generation user
+    round:explicitNames 1
+    round:use50%rule 1
+    round:finale:use 1
+    round:finale:split 0
+    round:finale:nb 0
+    round:finale.2:nb 0
+    round:finale:name Finale
+    panels {{} {} {} {} {} {} {} all}
+    judges:requested {F A E}
+    judges:finale {F A E}
+    couples:names {118 119 126 130 136 144 158 162}
+    couples:all {118 119 126 130 136 144 158 162}
+    couples:finale {118 119 126 130 136 144 158 162}
+    notes:finale:118:Rumba {1 1 3}
+    notes:finale:119:Rumba {4 8 8}
+    notes:finale:126:Rumba {2 5 1}
+    notes:finale:130:Rumba {3 7 2}
+    notes:finale:136:Rumba {7 4 7}
+    notes:finale:144:Rumba {5 6 4}
+    notes:finale:158:Rumba {8 2 5}
+    notes:finale:162:Rumba {6 3 6}
+}
+
+folder67 {
+    label {55 Rhy New ECS}
+    mode normal
+    dances {{East Coast Swing}}
+    attributes:age:ext {}
+    attributes:age:max {}
+    attributes:age:min {}
+    attributes:level {}
+    attributes:type {}
+    levels finale
+    round:generation auto
+    round:explicitNames 1
+    round:use50%rule 1
+    round:finale:use 1
+    round:finale:split 0
+    round:finale:nb 0
+    round:finale.2:nb 0
+    round:finale:name Finale
+    panels {{} {} {} {} {} {} {} all}
+    judges:requested {F A E}
+    judges:finale {F A E}
+    couples:names {118 126 128 130 136 144 158}
+    couples:all {118 126 128 130 136 144 158}
+    couples:finale {118 126 128 130 136 144 158}
+    {exclusion:finale:East Coast Swing} 128
+    {notes:finale:118:East Coast Swing} {4 1 3}
+    {notes:finale:126:East Coast Swing} {1 2 2}
+    {notes:finale:128:East Coast Swing} {7.0 7.0 7.0}
+    {notes:finale:130:East Coast Swing} {3 3 1}
+    {notes:finale:136:East Coast Swing} {2 4 6}
+    {notes:finale:144:East Coast Swing} {6 5 4}
+    {notes:finale:158:East Coast Swing} {5 6 5}
+}
+
+folder68 {
+    label {56 Rhy P/A F-New C}
+    mode normal
+    dances {{Cha Cha}}
+    attributes:age:ext {}
+    attributes:age:max {}
+    attributes:age:min {}
+    attributes:level {}
+    attributes:type {}
+    levels finale
+    round:generation auto
+    round:explicitNames 1
+    round:use50%rule 1
+    round:finale:use 1
+    round:finale:split 0
+    round:finale:nb 0
+    round:finale.2:nb 0
+    round:finale:name Finale
+    panels {{} {} {} {} {} {} {} all}
+    judges:requested {F A E}
+    judges:finale {F A E}
+    couples:names {113 115 139 142 148}
+    couples:all {113 115 139 142 148}
+    couples:finale {113 115 139 142 148}
+    {notes:finale:113:Cha Cha} {1 3 1}
+    {notes:finale:115:Cha Cha} {4 5 3}
+    {notes:finale:139:Cha Cha} {3 2 2}
+    {notes:finale:142:Cha Cha} {5 4 4}
+    {notes:finale:148:Cha Cha} {2 1 5}
+}
+
+folder69 {
+    label {57 Rhy P/A M-New C }
+    mode normal
+    dances {{Cha Cha}}
+    attributes:age:ext {}
+    attributes:age:max {}
+    attributes:age:min {}
+    attributes:level {}
+    attributes:type {}
+    levels finale
+    round:generation auto
+    round:explicitNames 1
+    round:use50%rule 1
+    round:finale:use 1
+    round:finale:split 0
+    round:finale:nb 0
+    round:finale.2:nb 0
+    round:finale:name Finale
+    panels {{} {} {} {} {} {} {} all}
+    judges:requested {F A E}
+    judges:finale {F A E}
+    couples:names {131 138 143 157}
+    couples:all {131 138 143 157}
+    couples:finale {131 138 143 157}
+    {notes:finale:131:Cha Cha} {3 3 3}
+    {notes:finale:138:Cha Cha} {1 1 1}
+    {notes:finale:143:Cha Cha} {4 4 4}
+    {notes:finale:157:Cha Cha} {2 2 2}
+}
+
+folder70 {
+    label {58 Rhy P/A F-New R}
+    mode normal
+    dances Rumba
+    attributes:age:ext {}
+    attributes:age:max {}
+    attributes:age:min {}
+    attributes:level {}
+    attributes:type {}
+    levels finale
+    round:generation auto
+    round:explicitNames 1
+    round:use50%rule 1
+    round:finale:use 1
+    round:finale:split 0
+    round:finale:nb 0
+    round:finale.2:nb 0
+    round:finale:name Finale
+    panels {{} {} {} {} {} {} {} all}
+    judges:requested {F A E}
+    judges:finale {F A E}
+    couples:names {115 142}
+    couples:all {115 142}
+    couples:finale {115 142}
+    notes:finale:115:Rumba {2 2 2}
+    notes:finale:142:Rumba {1 1 1}
+}
+
+folder71 {
+    label {59 Rhy P/A M-New R}
+    mode normal
+    dances Rumba
+    attributes:age:ext {}
+    attributes:age:max {}
+    attributes:age:min {}
+    attributes:level {}
+    attributes:type {}
+    levels finale
+    round:generation auto
+    round:explicitNames 1
+    round:use50%rule 1
+    round:finale:use 1
+    round:finale:split 0
+    round:finale:nb 0
+    round:finale.2:nb 0
+    round:finale:name Finale
+    panels {{} {} {} {} {} {} {} all}
+    judges:requested {F A E}
+    judges:finale {F A E}
+    couples:names 131
+    couples:all 131
+    couples:finale 131
+    notes:finale:131:Rumba {1 1 1}
+}
+
+folder72 {
+    label {60 Rhy P/A F-New ECS}
+    mode normal
+    dances {{East Coast Swing}}
+    attributes:age:ext {}
+    attributes:age:max {}
+    attributes:age:min {}
+    attributes:level {}
+    attributes:type {}
+    levels finale
+    round:generation auto
+    round:explicitNames 1
+    round:use50%rule 1
+    round:finale:use 1
+    round:finale:split 0
+    round:finale:nb 0
+    round:finale.2:nb 0
+    round:finale:name Finale
+    panels {{} {} {} {} {} {} {} all}
+    judges:requested {F A E}
+    judges:finale {F A E}
+    couples:names {113 115 139 142 148}
+    couples:all {113 115 139 142 148}
+    couples:finale {113 115 139 142 148}
+    {notes:finale:113:East Coast Swing} {2 4 1}
+    {notes:finale:115:East Coast Swing} {5 5 5}
+    {notes:finale:139:East Coast Swing} {3 3 4}
+    {notes:finale:142:East Coast Swing} {4 1 2}
+    {notes:finale:148:East Coast Swing} {1 2 3}
+}
+
+folder73 {
+    label {61 Rhy P/A M-New ECS}
+    mode normal
+    dances {{East Coast Swing}}
+    attributes:age:ext {}
+    attributes:age:max {}
+    attributes:age:min {}
+    attributes:level {}
+    attributes:type {}
+    levels finale
+    round:generation auto
+    round:explicitNames 1
+    round:use50%rule 1
+    round:finale:use 1
+    round:finale:split 0
+    round:finale:nb 0
+    round:finale.2:nb 0
+    round:finale:name Finale
+    panels {{} {} {} {} {} {} {} all}
+    judges:requested {F A E}
+    judges:finale {F A E}
+    couples:names {131 138 143 157}
+    couples:all {131 138 143 157}
+    couples:finale {131 138 143 157}
+    {notes:finale:131:East Coast Swing} {4 2 3}
+    {notes:finale:138:East Coast Swing} {1 4 1}
+    {notes:finale:143:East Coast Swing} {3 3 4}
+    {notes:finale:157:East Coast Swing} {2 1 2}
+}
+
+folder74 {
+    label {62 Rhy Br C}
+    mode normal
+    dances {{Cha Cha}}
+    attributes:age:ext {}
+    attributes:age:max {}
+    attributes:age:min {}
+    attributes:level {}
+    attributes:type {}
+    levels {eight quarter semi finale}
+    round:generation user
+    round:explicitNames 1
+    round:use50%rule 1
+    round:eight:use 1
+    round:eight:split 0
+    round:eight:nb 18
+    round:eight:nbSelected 20
+    round:eight.2:nb 0
+    round:eight:name {1/8 Finale}
+    round:quarter:use 1
+    round:quarter:split 0
+    round:quarter:nb 12
+    round:quarter:nbSelected 13
+    round:quarter.2:nb 0
+    round:quarter:name {1/4 Finale}
+    round:semi:use 1
+    round:semi:split 0
+    round:semi:nb 7
+    round:semi:nbSelected 8
+    round:semi.2:nb 0
+    round:semi:name {1/2 Finale}
+    round:finale:use 1
+    round:finale:split 0
+    round:finale:nb 0
+    round:finale.2:nb 0
+    round:finale:name Finale
+    dances:eight {{Cha Cha}}
+    dances:quarter {{Cha Cha}}
+    dances:semi {{Cha Cha}}
+    panels {{} {} {} {} {} {} {} all}
+    judges:requested {F A E}
+    judges:eight {A E F}
+    judges:quarter {A E F}
+    judges:semi {A E F}
+    judges:finale {F A E}
+    couples:names {104 109 113 118 122 126 128 129 130 131 135 136 138 139 142 143 145 148 153 157 158 161 162 166 168 169}
+    couples:all {104 109 113 118 122 126 128 129 130 131 135 136 138 139 142 143 145 148 153 157 158 161 162 166 168 169}
+    couples:eight {104 109 113 118 122 126 128 129 130 131 135 136 138 139 142 143 145 148 153 157 158 161 162 166 168 169}
+    couples:quarter {104 109 113 126 129 130 131 135 138 139 142 145 148 153 157 158 161 166 168 169}
+    couples:semi {104 113 126 129 130 139 142 145 153 157 161 168 169}
+    couples:finale {104 113 126 142 145 153 168 169}
+    {notes:eight:104:Cha Cha} {1 1 1}
+    {notes:eight:109:Cha Cha} {1 0 1}
+    {notes:eight:113:Cha Cha} {1 1 1}
+    {notes:eight:118:Cha Cha} {0 0 0}
+    {notes:eight:122:Cha Cha} {0 1 0}
+    {notes:eight:126:Cha Cha} {1 1 1}
+    {notes:eight:128:Cha Cha} {0 0 0}
+    {notes:eight:129:Cha Cha} {0 1 1}
+    {notes:eight:130:Cha Cha} {1 1 1}
+    {notes:eight:131:Cha Cha} {0 1 1}
+    {notes:eight:135:Cha Cha} {1 0 1}
+    {notes:eight:136:Cha Cha} {0 0 0}
+    {notes:eight:138:Cha Cha} {1 1 1}
+    {notes:eight:139:Cha Cha} {1 1 0}
+    {notes:eight:142:Cha Cha} {1 1 1}
+    {notes:eight:143:Cha Cha} {0 0 0}
+    {notes:eight:145:Cha Cha} {1 1 1}
+    {notes:eight:148:Cha Cha} {1 1 1}
+    {notes:eight:153:Cha Cha} {1 1 1}
+    {notes:eight:157:Cha Cha} {1 1 1}
+    {notes:eight:158:Cha Cha} {1 1 1}
+    {notes:eight:161:Cha Cha} {1 1 1}
+    {notes:eight:162:Cha Cha} {0 1 0}
+    {notes:eight:166:Cha Cha} {1 0 1}
+    {notes:eight:168:Cha Cha} {1 1 0}
+    {notes:eight:169:Cha Cha} {1 0 1}
+    {notes:quarter:104:Cha Cha} {1 1 1}
+    {notes:quarter:109:Cha Cha} {0 0 1}
+    {notes:quarter:113:Cha Cha} {0 1 1}
+    {notes:quarter:126:Cha Cha} {1 1 0}
+    {notes:quarter:129:Cha Cha} {1 1 0}
+    {notes:quarter:130:Cha Cha} {1 1 0}
+    {notes:quarter:131:Cha Cha} {1 0 0}
+    {notes:quarter:135:Cha Cha} {0 0 1}
+    {notes:quarter:138:Cha Cha} {0 0 0}
+    {notes:quarter:139:Cha Cha} {1 1 0}
+    {notes:quarter:142:Cha Cha} {1 0 1}
+    {notes:quarter:145:Cha Cha} {0 1 1}
+    {notes:quarter:148:Cha Cha} {0 0 1}
+    {notes:quarter:153:Cha Cha} {1 1 1}
+    {notes:quarter:157:Cha Cha} {1 1 1}
+    {notes:quarter:158:Cha Cha} {0 0 0}
+    {notes:quarter:161:Cha Cha} {1 0 1}
+    {notes:quarter:166:Cha Cha} {0 1 0}
+    {notes:quarter:168:Cha Cha} {1 1 1}
+    {notes:quarter:169:Cha Cha} {1 1 1}
+    {notes:semi:104:Cha Cha} {1 1 0}
+    {notes:semi:113:Cha Cha} {1 1 0}
+    {notes:semi:126:Cha Cha} {0 1 1}
+    {notes:semi:129:Cha Cha} {0 0 1}
+    {notes:semi:130:Cha Cha} {0 0 0}
+    {notes:semi:139:Cha Cha} {0 0 0}
+    {notes:semi:142:Cha Cha} {1 0 1}
+    {notes:semi:145:Cha Cha} {1 1 1}
+    {notes:semi:153:Cha Cha} {1 1 1}
+    {notes:semi:157:Cha Cha} {0 0 0}
+    {notes:semi:161:Cha Cha} {1 0 0}
+    {notes:semi:168:Cha Cha} {1 1 1}
+    {notes:semi:169:Cha Cha} {0 1 1}
+    {notes:finale:104:Cha Cha} {6 3 2}
+    {notes:finale:113:Cha Cha} {5 5 5}
+    {notes:finale:126:Cha Cha} {8 6 6}
+    {notes:finale:142:Cha Cha} {3 8 7}
+    {notes:finale:145:Cha Cha} {2 1 1}
+    {notes:finale:153:Cha Cha} {1 2 3}
+    {notes:finale:168:Cha Cha} {7 4 4}
+    {notes:finale:169:Cha Cha} {4 7 8}
+}
+
+folder75 {
+    label {63 Rhy Br R}
+    mode normal
+    dances Rumba
+    attributes:age:ext {}
+    attributes:age:max {}
+    attributes:age:min {}
+    attributes:level {}
+    attributes:type {}
+    levels {quarter semi finale}
+    round:generation auto
+    round:explicitNames 1
+    round:use50%rule 1
+    round:quarter:use 1
+    round:quarter:split 0
+    round:quarter:nb 12
+    round:quarter:nbSelected 12
+    round:quarter.2:nb 0
+    round:quarter:name {1/4 Finale}
+    round:semi:use 1
+    round:semi:split 0
+    round:semi:nb 6
+    round:semi:nbSelected 5
+    round:semi.2:nb 0
+    round:semi:name {1/2 Finale}
+    round:finale:use 1
+    round:finale:split 0
+    round:finale:nb 0
+    round:finale.2:nb 0
+    round:finale:name Finale
+    dances:quarter Rumba
+    dances:semi Rumba
+    panels {{} {} {} {} {} {} {} all}
+    judges:requested {F A E}
+    judges:quarter {A E F}
+    judges:semi {A E F}
+    judges:finale {F A E}
+    couples:names {104 109 118 122 126 128 129 131 135 136 139 142 153 158 161 162 166 168 169}
+    couples:all {104 109 118 122 126 128 129 131 135 136 139 142 153 158 161 162 166 168 169}
+    couples:quarter {104 109 118 122 126 128 129 131 135 136 139 142 153 158 161 162 166 168 169}
+    couples:semi {104 109 122 126 128 129 139 142 153 162 168 169}
+    couples:finale {104 128 153 168 169}
+    notes:quarter:104:Rumba {1 1 1}
+    notes:quarter:109:Rumba {1 1 1}
+    notes:quarter:118:Rumba {0 0 0}
+    notes:quarter:122:Rumba {1 1 1}
+    notes:quarter:126:Rumba {1 1 1}
+    notes:quarter:128:Rumba {1 1 0}
+    notes:quarter:129:Rumba {1 1 1}
+    notes:quarter:131:Rumba {0 0 0}
+    notes:quarter:135:Rumba {0 0 1}
+    notes:quarter:136:Rumba {0 1 0}
+    notes:quarter:139:Rumba {0 1 1}
+    notes:quarter:142:Rumba {1 0 1}
+    notes:quarter:153:Rumba {1 1 1}
+    notes:quarter:158:Rumba {0 0 0}
+    notes:quarter:161:Rumba {1 0 0}
+    notes:quarter:162:Rumba {1 1 0}
+    notes:quarter:166:Rumba {0 0 1}
+    notes:quarter:168:Rumba {1 1 1}
+    notes:quarter:169:Rumba {1 1 1}
+    notes:semi:104:Rumba {1 1 1}
+    notes:semi:109:Rumba {1 0 0}
+    notes:semi:122:Rumba {0 1 0}
+    notes:semi:126:Rumba {0 0 0}
+    notes:semi:128:Rumba {1 0 1}
+    notes:semi:129:Rumba {0 1 0}
+    notes:semi:139:Rumba {0 0 0}
+    notes:semi:142:Rumba {0 0 1}
+    notes:semi:153:Rumba {1 1 0}
+    notes:semi:162:Rumba {0 0 1}
+    notes:semi:168:Rumba {1 1 1}
+    notes:semi:169:Rumba {1 1 1}
+    notes:finale:104:Rumba {3 4 2}
+    notes:finale:128:Rumba {4 1 5}
+    notes:finale:153:Rumba {1 3 1}
+    notes:finale:168:Rumba {5 2 3}
+    notes:finale:169:Rumba {2 5 4}
+}
+
+folder76 {
+    label {64 Rhy Br ECS}
+    mode normal
+    dances {{East Coast Swing}}
+    attributes:age:ext {}
+    attributes:age:max {}
+    attributes:age:min {}
+    attributes:level {}
+    attributes:type {}
+    levels {eight quarter semi finale}
+    round:generation user
+    round:explicitNames 1
+    round:use50%rule 1
+    round:eight:use 1
+    round:eight:split 0
+    round:eight:nb 18
+    round:eight:nbSelected 19
+    round:eight.2:nb 0
+    round:eight:name {1/8 Finale}
+    round:quarter:use 1
+    round:quarter:split 0
+    round:quarter:nb 12
+    round:quarter:nbSelected 12
+    round:quarter.2:nb 0
+    round:quarter:name {1/4 Finale}
+    round:semi:use 1
+    round:semi:split 0
+    round:semi:nb 6
+    round:semi:nbSelected 6
+    round:semi.2:nb 0
+    round:semi:name {1/2 Finale}
+    round:finale:use 1
+    round:finale:split 0
+    round:finale:nb 0
+    round:finale.2:nb 0
+    round:finale:name Finale
+    dances:eight {{East Coast Swing}}
+    dances:quarter {{East Coast Swing}}
+    dances:semi {{East Coast Swing}}
+    panels {{} {} {} {} {} {} {} all}
+    judges:requested {F A E}
+    judges:eight {A E F}
+    judges:quarter {A E F}
+    judges:semi {A E F}
+    judges:finale {F A E}
+    couples:names {104 109 113 118 122 126 128 129 131 135 136 138 139 142 143 145 148 157 158 161 166 168 169}
+    couples:all {104 109 113 118 122 126 128 129 131 135 136 138 139 142 143 145 148 157 158 161 166 168 169}
+    couples:eight {104 109 113 118 122 126 128 129 131 135 136 138 139 142 143 145 148 157 158 161 166 168 169}
+    couples:quarter {104 109 113 118 122 126 128 129 135 138 142 145 148 157 158 161 166 168 169}
+    couples:semi {104 109 113 122 126 129 138 145 148 161 168 169}
+    couples:finale {104 109 113 129 145 168}
+    {notes:eight:104:East Coast Swing} {1 1 1}
+    {notes:eight:109:East Coast Swing} {0 1 1}
+    {notes:eight:113:East Coast Swing} {1 1 1}
+    {notes:eight:118:East Coast Swing} {1 0 1}
+    {notes:eight:122:East Coast Swing} {1 1 1}
+    {notes:eight:126:East Coast Swing} {1 1 1}
+    {notes:eight:128:East Coast Swing} {1 1 0}
+    {notes:eight:129:East Coast Swing} {1 1 1}
+    {notes:eight:131:East Coast Swing} {1 0 0}
+    {notes:eight:135:East Coast Swing} {1 0 1}
+    {notes:eight:136:East Coast Swing} {0 1 0}
+    {notes:eight:138:East Coast Swing} {1 1 1}
+    {notes:eight:139:East Coast Swing} {0 1 0}
+    {notes:eight:142:East Coast Swing} {1 1 1}
+    {notes:eight:143:East Coast Swing} {0 0 1}
+    {notes:eight:145:East Coast Swing} {1 0 1}
+    {notes:eight:148:East Coast Swing} {1 1 1}
+    {notes:eight:157:East Coast Swing} {1 1 1}
+    {notes:eight:158:East Coast Swing} {1 1 0}
+    {notes:eight:161:East Coast Swing} {1 1 1}
+    {notes:eight:166:East Coast Swing} {0 1 1}
+    {notes:eight:168:East Coast Swing} {1 1 1}
+    {notes:eight:169:East Coast Swing} {1 1 1}
+    {notes:quarter:104:East Coast Swing} {1 1 1}
+    {notes:quarter:109:East Coast Swing} {1 1 0}
+    {notes:quarter:113:East Coast Swing} {1 1 1}
+    {notes:quarter:118:East Coast Swing} {1 0 0}
+    {notes:quarter:122:East Coast Swing} {1 1 1}
+    {notes:quarter:126:East Coast Swing} {1 1 0}
+    {notes:quarter:128:East Coast Swing} {0 0 1}
+    {notes:quarter:129:East Coast Swing} {0 1 1}
+    {notes:quarter:135:East Coast Swing} {0 0 0}
+    {notes:quarter:138:East Coast Swing} {1 0 1}
+    {notes:quarter:142:East Coast Swing} {0 0 1}
+    {notes:quarter:145:East Coast Swing} {1 1 1}
+    {notes:quarter:148:East Coast Swing} {1 1 1}
+    {notes:quarter:157:East Coast Swing} {0 0 1}
+    {notes:quarter:158:East Coast Swing} {0 0 0}
+    {notes:quarter:161:East Coast Swing} {1 1 0}
+    {notes:quarter:166:East Coast Swing} {0 1 0}
+    {notes:quarter:168:East Coast Swing} {1 1 1}
+    {notes:quarter:169:East Coast Swing} {1 1 1}
+    {notes:semi:104:East Coast Swing} {1 1 0}
+    {notes:semi:109:East Coast Swing} {1 1 0}
+    {notes:semi:113:East Coast Swing} {1 1 1}
+    {notes:semi:122:East Coast Swing} {0 0 1}
+    {notes:semi:126:East Coast Swing} {0 0 0}
+    {notes:semi:129:East Coast Swing} {0 1 1}
+    {notes:semi:138:East Coast Swing} {1 0 0}
+    {notes:semi:145:East Coast Swing} {1 1 1}
+    {notes:semi:148:East Coast Swing} {0 0 0}
+    {notes:semi:161:East Coast Swing} {0 0 0}
+    {notes:semi:168:East Coast Swing} {1 1 1}
+    {notes:semi:169:East Coast Swing} {0 0 1}
+    {notes:finale:104:East Coast Swing} {6 5 4}
+    {notes:finale:109:East Coast Swing} {2 4 6}
+    {notes:finale:113:East Coast Swing} {4 1 2}
+    {notes:finale:129:East Coast Swing} {1 6 1}
+    {notes:finale:145:East Coast Swing} {3 3 5}
+    {notes:finale:168:East Coast Swing} {5 2 3}
+}
+
+folder77 {
+    label {65 Rhy Br Bol}
+    mode normal
+    dances Bolero
+    attributes:age:ext {}
+    attributes:age:max {}
+    attributes:age:min {}
+    attributes:level {}
+    attributes:type {}
+    levels {semi finale}
+    round:generation auto
+    round:explicitNames 1
+    round:use50%rule 1
+    round:semi:use 1
+    round:semi:split 0
+    round:semi:nb 6
+    round:semi:nbSelected 6
+    round:semi.2:nb 0
+    round:semi:name {1/2 Finale}
+    round:finale:use 1
+    round:finale:split 0
+    round:finale:nb 0
+    round:finale.2:nb 0
+    round:finale:name Finale
+    dances:semi Bolero
+    panels {{} {} {} {} {} {} {} all}
+    judges:requested {F A E}
+    judges:semi {A E F}
+    judges:finale {F A E}
+    couples:names {104 109 118 122 130 131 139 142 161 166}
+    couples:all {104 109 118 122 130 131 139 142 161 166}
+    couples:semi {104 109 118 122 130 131 139 142 161 166}
+    couples:finale {104 109 122 130 139 142}
+    notes:semi:104:Bolero {1 1 1}
+    notes:semi:109:Bolero {1 1 1}
+    notes:semi:118:Bolero {1 0 0}
+    notes:semi:122:Bolero {1 1 1}
+    notes:semi:130:Bolero {0 1 1}
+    notes:semi:131:Bolero {0 0 0}
+    notes:semi:139:Bolero {1 1 1}
+    notes:semi:142:Bolero {0 1 1}
+    notes:semi:161:Bolero {0 0 0}
+    notes:semi:166:Bolero {1 0 0}
+    notes:finale:104:Bolero {4 2 2}
+    notes:finale:109:Bolero {3 1 1}
+    notes:finale:122:Bolero {1 4 3}
+    notes:finale:130:Bolero {5 6 6}
+    notes:finale:139:Bolero {6 5 4}
+    notes:finale:142:Bolero {2 3 5}
+}
+
+folder78 {
+    label {66 Rhy Br Mambo}
+    mode normal
+    dances Mambo
+    attributes:age:ext {}
+    attributes:age:max {}
+    attributes:age:min {}
+    attributes:level {}
+    attributes:type {}
+    levels finale
+    round:generation auto
+    round:explicitNames 1
+    round:use50%rule 1
+    round:finale:use 1
+    round:finale:split 0
+    round:finale:nb 0
+    round:finale.2:nb 0
+    round:finale:name Finale
+    panels {{} {} {} {} {} {} {} all}
+    judges:requested {F A E}
+    judges:finale {F A E}
+    couples:names {131 142 145 161}
+    couples:all {131 142 145 161}
+    couples:finale {131 142 145 161}
+    exclusion:finale:Mambo {131 161}
+    notes:finale:131:Mambo {3.5 3.5 3.5}
+    notes:finale:142:Mambo {2 1 2}
+    notes:finale:145:Mambo {1 2 1}
+    notes:finale:161:Mambo {3.5 3.5 3.5}
+}
+
+folder79 {
+    label {67 Rhy Sil C}
+    mode normal
+    dances {{Cha Cha}}
+    attributes:age:ext {}
+    attributes:age:max {}
+    attributes:age:min {}
+    attributes:level {}
+    attributes:type {}
+    levels {semi finale}
+    round:generation user
+    round:explicitNames 1
+    round:use50%rule 1
+    round:semi:use 1
+    round:semi:split 0
+    round:semi:nb 6
+    round:semi:nbSelected 7
+    round:semi.2:nb 0
+    round:semi:name {1/2 Finale}
+    round:finale:use 1
+    round:finale:split 0
+    round:finale:nb 0
+    round:finale.2:nb 0
+    round:finale:name Finale
+    dances:semi {{Cha Cha}}
+    panels {{} {} {} {} {} {} {} {} all}
+    judges:requested {B G C}
+    judges:semi {B C G}
+    judges:finale {B G C}
+    couples:names {104 106 109 117 128 135 139 142 161 168 169}
+    couples:all {104 106 109 117 128 135 139 142 161 168 169}
+    couples:semi {104 106 109 117 128 135 139 142 161 168 169}
+    couples:finale {104 106 117 128 139 142 161}
+    {notes:semi:104:Cha Cha} {1 1 1}
+    {notes:semi:106:Cha Cha} {1 1 1}
+    {notes:semi:109:Cha Cha} {0 0 0}
+    {notes:semi:117:Cha Cha} {0 1 1}
+    {notes:semi:128:Cha Cha} {1 0 1}
+    {notes:semi:135:Cha Cha} {0 0 0}
+    {notes:semi:139:Cha Cha} {0 1 1}
+    {notes:semi:142:Cha Cha} {1 1 0}
+    {notes:semi:161:Cha Cha} {1 0 1}
+    {notes:semi:168:Cha Cha} {0 1 0}
+    {notes:semi:169:Cha Cha} {1 0 0}
+    {notes:finale:104:Cha Cha} {4 2 3}
+    {notes:finale:106:Cha Cha} {1 1 1}
+    {notes:finale:117:Cha Cha} {7 6 2}
+    {notes:finale:128:Cha Cha} {3 3 4}
+    {notes:finale:139:Cha Cha} {6 7 6}
+    {notes:finale:142:Cha Cha} {5 4 5}
+    {notes:finale:161:Cha Cha} {2 5 7}
+}
+
+folder80 {
+    label {68 Rhy Sil R}
+    mode normal
+    dances Rumba
+    attributes:age:ext {}
+    attributes:age:max {}
+    attributes:age:min {}
+    attributes:level {}
+    attributes:type {}
+    levels finale
+    round:generation user
+    round:explicitNames 1
+    round:use50%rule 1
+    round:finale:use 1
+    round:finale:split 0
+    round:finale:nb 0
+    round:finale.2:nb 0
+    round:finale:name Finale
+    panels {{} {} {} {} {} {} {} {} all}
+    judges:requested {B G C}
+    judges:finale {B G C}
+    couples:names {106 109 128 135 139 142 161 168}
+    couples:all {106 109 128 135 139 142 161 168}
+    couples:finale {106 109 128 135 139 142 161 168}
+    exclusion:finale:Rumba {109 128}
+    notes:finale:106:Rumba {1 1 1}
+    notes:finale:109:Rumba {7.5 7.5 7.5}
+    notes:finale:128:Rumba {7.5 7.5 7.5}
+    notes:finale:135:Rumba {6 6 6}
+    notes:finale:139:Rumba {5 4 4}
+    notes:finale:142:Rumba {4 5 5}
+    notes:finale:161:Rumba {3 2 3}
+    notes:finale:168:Rumba {2 3 2}
+}
+
+folder81 {
+    label {69 Rhy Sil ECS}
+    mode normal
+    dances {{East Coast Swing}}
+    attributes:age:ext {}
+    attributes:age:max {}
+    attributes:age:min {}
+    attributes:level {}
+    attributes:type {}
+    levels finale
+    round:generation user
+    round:explicitNames 1
+    round:use50%rule 1
+    round:finale:use 1
+    round:finale:split 0
+    round:finale:nb 0
+    round:finale.2:nb 0
+    round:finale:name Finale
+    dances:semi {{East Coast Swing}}
+    panels {{} {} {} {} {} {} {} {} all}
+    judges:requested {B G C}
+    judges:finale {B G C}
+    couples:names {106 117 135 139 142 161 168 169}
+    couples:all {106 117 135 139 142 161 168 169}
+    couples:finale {106 117 135 139 142 161 168 169}
+    {notes:finale:106:East Coast Swing} {2 1 1}
+    {notes:finale:117:East Coast Swing} {8 5 2}
+    {notes:finale:135:East Coast Swing} {7 7 5}
+    {notes:finale:139:East Coast Swing} {6 4 6}
+    {notes:finale:142:East Coast Swing} {5 3 7}
+    {notes:finale:161:East Coast Swing} {1 8 8}
+    {notes:finale:168:East Coast Swing} {3 6 3}
+    {notes:finale:169:East Coast Swing} {4 2 4}
+}
+
+folder82 {
+    label {70 Rhy Sil Bol}
+    mode normal
+    dances Bolero
+    attributes:age:ext {}
+    attributes:age:max {}
+    attributes:age:min {}
+    attributes:level {}
+    attributes:type {}
+    levels finale
+    round:generation auto
+    round:explicitNames 1
+    round:use50%rule 1
+    round:finale:use 1
+    round:finale:split 0
+    round:finale:nb 0
+    round:finale.2:nb 0
+    round:finale:name Finale
+    panels {{} {} {} {} {} {} {} {} all}
+    judges:requested {B G C}
+    judges:finale {B G C}
+    couples:names {104 106 109 142}
+    couples:all {104 106 109 142}
+    couples:finale {104 106 109 142}
+    exclusion:finale:Bolero 109
+    notes:finale:104:Bolero {2 3 2}
+    notes:finale:106:Bolero {1 1 1}
+    notes:finale:109:Bolero {4.0 4.0 4.0}
+    notes:finale:142:Bolero {3 2 3}
+}
+
+folder83 {
+    label {71 Rhy Sil Mambo}
+    mode normal
+    dances Mambo
+    attributes:age:ext {}
+    attributes:age:max {}
+    attributes:age:min {}
+    attributes:level {}
+    attributes:type {}
+    levels finale
+    round:generation auto
+    round:explicitNames 1
+    round:use50%rule 1
+    round:finale:use 1
+    round:finale:split 0
+    round:finale:nb 0
+    round:finale.2:nb 0
+    round:finale:name Finale
+    panels {{} {} {} {} {} {} {} {} all}
+    judges:requested {B G C}
+    judges:finale {B G C}
+    couples:names 106
+    couples:all 106
+    couples:finale 106
+    notes:finale:106:Mambo {1 1 1}
+}
+
+folder84 {
+    label {72 Rhy Gld C}
+    mode normal
+    dances {{Cha Cha}}
+    attributes:age:ext {}
+    attributes:age:max {}
+    attributes:age:min {}
+    attributes:level {}
+    attributes:type {}
+    levels finale
+    round:generation auto
+    round:explicitNames 1
+    round:use50%rule 1
+    round:finale:use 1
+    round:finale:split 0
+    round:finale:nb 0
+    round:finale.2:nb 0
+    round:finale:name Finale
+    panels {{} {} {} {} {} {} {} {} all}
+    judges:requested {B G C}
+    judges:finale {B G C}
+    couples:names 106
+    couples:all 106
+    couples:finale 106
+    {notes:finale:106:Cha Cha} {1 1 1}
+}
+
+folder85 {
+    label {73 Rhy Gld R}
+    mode normal
+    dances Rumba
+    attributes:age:ext {}
+    attributes:age:max {}
+    attributes:age:min {}
+    attributes:level {}
+    attributes:type {}
+    levels finale
+    round:generation auto
+    round:explicitNames 1
+    round:use50%rule 1
+    round:finale:use 1
+    round:finale:split 0
+    round:finale:nb 0
+    round:finale.2:nb 0
+    round:finale:name Finale
+    panels {{} {} {} {} {} {} {} {} all}
+    judges:requested {B G C}
+    judges:finale {B G C}
+    couples:names 106
+    couples:all 106
+    couples:finale 106
+    notes:finale:106:Rumba {1 1 1}
+}
+
+folder86 {
+    label {74 Rhy Gld ECS}
+    mode normal
+    dances {{East Coast Swing}}
+    attributes:age:ext {}
+    attributes:age:max {}
+    attributes:age:min {}
+    attributes:level {}
+    attributes:type {}
+    levels finale
+    round:generation auto
+    round:explicitNames 1
+    round:use50%rule 1
+    round:finale:use 1
+    round:finale:split 0
+    round:finale:nb 0
+    round:finale.2:nb 0
+    round:finale:name Finale
+    panels {{} {} {} {} {} {} {} {} all}
+    judges:requested {B G C}
+    judges:finale {B G C}
+    couples:names 106
+    couples:all 106
+    couples:finale 106
+    {notes:finale:106:East Coast Swing} {1 1 1}
+}
+
+folder87 {
+    label {75 Rhy Gld Bol}
+    mode normal
+    dances Bolero
+    attributes:age:ext {}
+    attributes:age:max {}
+    attributes:age:min {}
+    attributes:level {}
+    attributes:type {}
+    levels finale
+    round:generation auto
+    round:explicitNames 1
+    round:use50%rule 1
+    round:finale:use 1
+    round:finale:split 0
+    round:finale:nb 0
+    round:finale.2:nb 0
+    round:finale:name Finale
+    panels {{} {} {} {} {} {} {} {} all}
+    judges:requested {B G C}
+    judges:finale {B G C}
+    couples:names 106
+    couples:all 106
+    couples:finale 106
+    notes:finale:106:Bolero {1 1 1}
+}
+
+folder88 {
+    label {76 Rhy Gld Mambo}
+    mode normal
+    dances Mambo
+    attributes:age:ext {}
+    attributes:age:max {}
+    attributes:age:min {}
+    attributes:level {}
+    attributes:type {}
+    levels finale
+    round:generation auto
+    round:explicitNames 1
+    round:use50%rule 1
+    round:finale:use 1
+    round:finale:split 0
+    round:finale:nb 0
+    round:finale.2:nb 0
+    round:finale:name Finale
+    panels {{} {} {} {} {} {} {} {} all}
+    judges:requested {B G C}
+    judges:finale {B G C}
+    couples:names 106
+    couples:all 106
+    couples:finale 106
+    notes:finale:106:Mambo {1 1 1}
+}
+
+folder89 {
+    label {77 Int New C}
+    mode normal
+    dances {{Cha Cha}}
+    attributes:age:ext {}
+    attributes:age:max {}
+    attributes:age:min {}
+    attributes:level {}
+    attributes:type {}
+    levels finale
+    round:generation auto
+    round:explicitNames 1
+    round:use50%rule 1
+    round:finale:use 1
+    round:finale:split 0
+    round:finale:nb 0
+    round:finale.2:nb 0
+    round:finale:name Finale
+    panels {{} {} {} {} {} {} {} {} {} all}
+    judges:requested {C D E}
+    judges:finale {C D E}
+    couples:names {108 120 158 162}
+    couples:all {108 120 158 162}
+    couples:finale {108 120 158 162}
+    {notes:finale:108:Cha Cha} {1 1 2}
+    {notes:finale:120:Cha Cha} {4 3 4}
+    {notes:finale:158:Cha Cha} {3 4 3}
+    {notes:finale:162:Cha Cha} {2 2 1}
+}
+
+folder90 {
+    label {78 Int New R}
+    mode normal
+    dances Rumba
+    attributes:age:ext {}
+    attributes:age:max {}
+    attributes:age:min {}
+    attributes:level {}
+    attributes:type {}
+    levels finale
+    round:generation auto
+    round:explicitNames 1
+    round:use50%rule 1
+    round:finale:use 1
+    round:finale:split 0
+    round:finale:nb 0
+    round:finale.2:nb 0
+    round:finale:name Finale
+    panels {{} {} {} {} {} {} {} {} {} all}
+    judges:requested {C D E}
+    judges:finale {C D E}
+    couples:names {108 120 158 162}
+    couples:all {108 120 158 162}
+    couples:finale {108 120 158 162}
+    notes:finale:108:Rumba {1 1 1}
+    notes:finale:120:Rumba {4 3 4}
+    notes:finale:158:Rumba {3 4 3}
+    notes:finale:162:Rumba {2 2 2}
+}
+
+folder91 {
+    label {79 Int New J}
+    mode normal
+    dances Jive
+    attributes:age:ext {}
+    attributes:age:max {}
+    attributes:age:min {}
+    attributes:level {}
+    attributes:type {}
+    levels finale
+    round:generation auto
+    round:explicitNames 1
+    round:use50%rule 1
+    round:finale:use 1
+    round:finale:split 0
+    round:finale:nb 0
+    round:finale.2:nb 0
+    round:finale:name Finale
+    panels {{} {} {} {} {} {} {} {} {} all}
+    judges:requested {C D E}
+    judges:finale {C D E}
+    couples:names {108 158}
+    couples:all {108 158}
+    couples:finale {108 158}
+    notes:finale:108:Jive {1 1 1}
+    notes:finale:158:Jive {2 2 2}
+}
+
+folder92 {
+    label {80 Int P/A F-New C}
+    mode normal
+    dances {{Cha Cha}}
+    attributes:age:ext {}
+    attributes:age:max {}
+    attributes:age:min {}
+    attributes:level {}
+    attributes:type {}
+    levels finale
+    round:generation auto
+    round:explicitNames 1
+    round:use50%rule 1
+    round:finale:use 1
+    round:finale:split 0
+    round:finale:nb 0
+    round:finale.2:nb 0
+    round:finale:name Finale
+    panels {{} {} {} {} {} {} {} {} {} all}
+    judges:requested {C D E}
+    judges:finale {C D E}
+    couples:names {113 115 128 139 142 148}
+    couples:all {113 115 128 139 142 148}
+    couples:finale {113 115 128 139 142 148}
+    {notes:finale:113:Cha Cha} {2 1 1}
+    {notes:finale:115:Cha Cha} {4 2 6}
+    {notes:finale:128:Cha Cha} {1 3 5}
+    {notes:finale:139:Cha Cha} {5 4 3}
+    {notes:finale:142:Cha Cha} {6 5 4}
+    {notes:finale:148:Cha Cha} {3 6 2}
+}
+
+folder93 {
+    label {81 Int P/A M-New C}
+    mode normal
+    dances {{Cha Cha}}
+    attributes:age:ext {}
+    attributes:age:max {}
+    attributes:age:min {}
+    attributes:level {}
+    attributes:type {}
+    levels finale
+    round:generation user
+    round:explicitNames 1
+    round:use50%rule 1
+    round:finale:use 1
+    round:finale:split 0
+    round:finale:nb 0
+    round:finale.2:nb 0
+    round:finale:name Finale
+    dances:semi {{Cha Cha}}
+    panels {{} {} {} {} {} {} {} {} {} all}
+    judges:requested {C D E}
+    judges:finale {C D E}
+    couples:names {131 132 137 138 143 150 156 157}
+    couples:all {131 132 137 138 143 150 156 157}
+    couples:finale {131 132 137 138 143 150 156 157}
+    {notes:finale:131:Cha Cha} {3 7 4}
+    {notes:finale:132:Cha Cha} {4 5 7}
+    {notes:finale:137:Cha Cha} {6 6 3}
+    {notes:finale:138:Cha Cha} {1 1 1}
+    {notes:finale:143:Cha Cha} {7 4 8}
+    {notes:finale:150:Cha Cha} {5 3 6}
+    {notes:finale:156:Cha Cha} {2 2 2}
+    {notes:finale:157:Cha Cha} {8 8 5}
+}
+
+folder94 {
+    label {82 Int P/A F-New R}
+    mode normal
+    dances Rumba
+    attributes:age:ext {}
+    attributes:age:max {}
+    attributes:age:min {}
+    attributes:level {}
+    attributes:type {}
+    levels finale
+    round:generation auto
+    round:explicitNames 1
+    round:use50%rule 1
+    round:finale:use 1
+    round:finale:split 0
+    round:finale:nb 0
+    round:finale.2:nb 0
+    round:finale:name Finale
+    panels {{} {} {} {} {} {} {} {} {} all}
+    judges:requested {C D E}
+    judges:finale {C D E}
+    couples:names {113 115 142 148}
+    couples:all {113 115 142 148}
+    couples:finale {113 115 142 148}
+    notes:finale:113:Rumba {2 1 2}
+    notes:finale:115:Rumba {3 2 3}
+    notes:finale:142:Rumba {1 3 4}
+    notes:finale:148:Rumba {4 4 1}
+}
+
+folder95 {
+    label {83 Int P/A M-New R}
+    mode normal
+    dances Rumba
+    attributes:age:ext {}
+    attributes:age:max {}
+    attributes:age:min {}
+    attributes:level {}
+    attributes:type {}
+    levels finale
+    round:generation auto
+    round:explicitNames 1
+    round:use50%rule 1
+    round:finale:use 1
+    round:finale:split 0
+    round:finale:nb 0
+    round:finale.2:nb 0
+    round:finale:name Finale
+    panels {{} {} {} {} {} {} {} {} {} all}
+    judges:requested {C D E}
+    judges:finale {C D E}
+    couples:names {132 137 143 150 156}
+    couples:all {132 137 143 150 156}
+    couples:finale {132 137 143 150 156}
+    notes:finale:132:Rumba {1 2 4}
+    notes:finale:137:Rumba {5 4 1}
+    notes:finale:143:Rumba {4 5 5}
+    notes:finale:150:Rumba {3 1 2}
+    notes:finale:156:Rumba {2 3 3}
+}
+
+folder96 {
+    label {84 Int P/A F-New J}
+    mode normal
+    dances Jive
+    attributes:age:ext {}
+    attributes:age:max {}
+    attributes:age:min {}
+    attributes:level {}
+    attributes:type {}
+    levels finale
+    round:generation auto
+    round:explicitNames 1
+    round:use50%rule 1
+    round:finale:use 1
+    round:finale:split 0
+    round:finale:nb 0
+    round:finale.2:nb 0
+    round:finale:name Finale
+    panels {{} {} {} {} {} {} {} {} {} all}
+    judges:requested {C D E}
+    judges:finale {C D E}
+    couples:names {106 113 115 139 148}
+    couples:all {106 113 115 139 148}
+    couples:finale {106 113 115 139 148}
+    notes:finale:106:Jive {3 4 3}
+    notes:finale:113:Jive {1 2 2}
+    notes:finale:115:Jive {4 3 5}
+    notes:finale:139:Jive {2 1 1}
+    notes:finale:148:Jive {5 5 4}
+}
+
+folder97 {
+    label {84.5 Int P/A M-New J}
+    mode normal
+    dances Jive
+    attributes:age:ext {}
+    attributes:age:max {}
+    attributes:age:min {}
+    attributes:level {}
+    attributes:type {}
+    levels {}
+    round:generation auto
+    round:explicitNames 1
+    round:use50%rule 1
+    panels {{} {} {} {} {} {} {} {} {} all}
+    judges:requested {C D E}
+    judges:finale {}
+    couples:names {}
+    couples:all {}
+}
+
+folder98 {
+    label {85 Int Br C}
+    mode normal
+    dances {{Cha Cha}}
+    attributes:age:ext {}
+    attributes:age:max {}
+    attributes:age:min {}
+    attributes:level {}
+    attributes:type {}
+    levels {eight quarter semi finale}
+    round:generation user
+    round:explicitNames 1
+    round:use50%rule 1
+    round:eight:use 1
+    round:eight:split 0
+    round:eight:nb 18
+    round:eight:nbSelected 17
+    round:eight.2:nb 0
+    round:eight:name {1/8 Finale}
+    round:quarter:use 1
+    round:quarter:split 0
+    round:quarter:nb 12
+    round:quarter:nbSelected 14
+    round:quarter.2:nb 0
+    round:quarter:name {1/4 Finale}
+    round:semi:use 1
+    round:semi:split 0
+    round:semi:nb 7
+    round:semi:nbSelected 6
+    round:semi.2:nb 0
+    round:semi:name {1/2 Finale}
+    round:finale:use 1
+    round:finale:split 0
+    round:finale:nb 0
+    round:finale.2:nb 0
+    round:finale:name Finale
+    dances:eight {{Cha Cha}}
+    dances:quarter {{Cha Cha}}
+    dances:semi {{Cha Cha}}
+    panels {{} {} {} {} {} {} {} {} {} all}
+    judges:requested {C D E}
+    judges:eight {C D E}
+    judges:quarter {C D E}
+    judges:semi {C D E}
+    judges:finale {C D E}
+    couples:names {108 113 114 115 116 117 120 125 128 131 134 138 139 140 141 142 143 145 146 149 151 153 157 158 160 161 162}
+    couples:all {108 113 114 115 116 117 120 125 128 131 134 138 139 140 141 142 143 145 146 149 151 153 157 158 160 161 162}
+    couples:eight {108 113 114 115 116 117 120 125 128 131 134 138 139 140 141 142 143 145 146 149 151 153 157 158 160 161 162}
+    couples:quarter {108 113 114 116 117 125 128 138 139 141 145 146 149 151 153 160 161}
+    couples:semi {108 113 114 116 117 125 128 138 141 145 146 149 153 160}
+    couples:finale {108 125 138 145 149 160}
+    {notes:eight:108:Cha Cha} {1 1 1}
+    {notes:eight:113:Cha Cha} {1 1 1}
+    {notes:eight:114:Cha Cha} {1 1 1}
+    {notes:eight:115:Cha Cha} {0 1 0}
+    {notes:eight:116:Cha Cha} {1 1 1}
+    {notes:eight:117:Cha Cha} {1 0 1}
+    {notes:eight:120:Cha Cha} {0 1 0}
+    {notes:eight:125:Cha Cha} {1 1 1}
+    {notes:eight:128:Cha Cha} {1 1 1}
+    {notes:eight:131:Cha Cha} {0 1 0}
+    {notes:eight:134:Cha Cha} {1 0 0}
+    {notes:eight:138:Cha Cha} {0 1 1}
+    {notes:eight:139:Cha Cha} {1 0 1}
+    {notes:eight:140:Cha Cha} {0 0 1}
+    {notes:eight:141:Cha Cha} {1 1 0}
+    {notes:eight:142:Cha Cha} {1 0 0}
+    {notes:eight:143:Cha Cha} {0 1 0}
+    {notes:eight:145:Cha Cha} {1 0 1}
+    {notes:eight:146:Cha Cha} {1 1 1}
+    {notes:eight:149:Cha Cha} {1 1 1}
+    {notes:eight:151:Cha Cha} {1 1 1}
+    {notes:eight:153:Cha Cha} {1 1 1}
+    {notes:eight:157:Cha Cha} {0 1 0}
+    {notes:eight:158:Cha Cha} {0 0 0}
+    {notes:eight:160:Cha Cha} {1 1 1}
+    {notes:eight:161:Cha Cha} {1 0 1}
+    {notes:eight:162:Cha Cha} {0 0 1}
+    {notes:quarter:108:Cha Cha} {0 1 1}
+    {notes:quarter:113:Cha Cha} {1 1 1}
+    {notes:quarter:114:Cha Cha} {1 1 0}
+    {notes:quarter:116:Cha Cha} {1 1 1}
+    {notes:quarter:117:Cha Cha} {1 1 1}
+    {notes:quarter:125:Cha Cha} {1 0 1}
+    {notes:quarter:128:Cha Cha} {1 0 1}
+    {notes:quarter:138:Cha Cha} {1 1 0}
+    {notes:quarter:139:Cha Cha} {0 0 1}
+    {notes:quarter:141:Cha Cha} {1 1 1}
+    {notes:quarter:145:Cha Cha} {1 0 1}
+    {notes:quarter:146:Cha Cha} {1 1 0}
+    {notes:quarter:149:Cha Cha} {1 1 1}
+    {notes:quarter:151:Cha Cha} {0 1 0}
+    {notes:quarter:153:Cha Cha} {0 1 1}
+    {notes:quarter:160:Cha Cha} {1 1 1}
+    {notes:quarter:161:Cha Cha} {0 0 0}
+    {notes:semi:108:Cha Cha} {1 1 0}
+    {notes:semi:113:Cha Cha} {0 0 1}
+    {notes:semi:114:Cha Cha} {0 1 0}
+    {notes:semi:116:Cha Cha} {0 0 1}
+    {notes:semi:117:Cha Cha} {0 0 1}
+    {notes:semi:125:Cha Cha} {0 1 1}
+    {notes:semi:128:Cha Cha} {0 0 0}
+    {notes:semi:138:Cha Cha} {1 1 0}
+    {notes:semi:141:Cha Cha} {1 0 0}
+    {notes:semi:145:Cha Cha} {1 1 1}
+    {notes:semi:146:Cha Cha} {1 0 0}
+    {notes:semi:149:Cha Cha} {1 0 1}
+    {notes:semi:153:Cha Cha} {0 1 0}
+    {notes:semi:160:Cha Cha} {1 1 1}
+    {notes:finale:108:Cha Cha} {6 2 6}
+    {notes:finale:125:Cha Cha} {4 4 4}
+    {notes:finale:138:Cha Cha} {5 6 5}
+    {notes:finale:145:Cha Cha} {3 3 2}
+    {notes:finale:149:Cha Cha} {2 1 3}
+    {notes:finale:160:Cha Cha} {1 5 1}
+}
+
+folder99 {
+    label {86 Int Br R}
+    mode normal
+    dances Rumba
+    attributes:age:ext {}
+    attributes:age:max {}
+    attributes:age:min {}
+    attributes:level {}
+    attributes:type {}
+    levels {eight quarter semi finale}
+    round:generation user
+    round:explicitNames 1
+    round:use50%rule 1
+    round:eight:use 1
+    round:eight:split 0
+    round:eight:nb 18
+    round:eight:nbSelected 18
+    round:eight.2:nb 0
+    round:eight:name {1/8 Finale}
+    round:quarter:use 1
+    round:quarter:split 0
+    round:quarter:nb 12
+    round:quarter:nbSelected 12
+    round:quarter.2:nb 0
+    round:quarter:name {1/4 Finale}
+    round:semi:use 1
+    round:semi:split 0
+    round:semi:nb 6
+    round:semi:nbSelected 6
+    round:semi.2:nb 0
+    round:semi:name {1/2 Finale}
+    round:finale:use 1
+    round:finale:split 0
+    round:finale:nb 0
+    round:finale.2:nb 0
+    round:finale:name Finale
+    dances:eight Rumba
+    dances:quarter Rumba
+    dances:semi Rumba
+    panels {{} {} {} {} {} {} {} {} {} all}
+    judges:requested {C D E}
+    judges:eight {C D E}
+    judges:quarter {C D E}
+    judges:semi {C D E}
+    judges:finale {C D E}
+    couples:names {108 113 114 115 116 117 120 125 128 134 139 140 141 142 143 145 146 148 149 151 153 158 160 161 162 169}
+    couples:all {108 113 114 115 116 117 120 125 128 134 139 140 141 142 143 145 146 148 149 151 153 158 160 161 162 169}
+    couples:eight {108 113 114 115 116 117 120 125 128 134 139 140 141 142 143 145 146 148 149 151 153 158 160 161 162 169}
+    couples:quarter {108 113 114 115 116 117 125 128 140 145 146 148 149 151 153 160 161 169}
+    couples:semi {113 114 116 117 125 145 146 148 149 151 153 160}
+    couples:finale {113 116 145 148 149 160}
+    notes:eight:108:Rumba {1 1 1}
+    notes:eight:113:Rumba {1 1 1}
+    notes:eight:114:Rumba {1 1 1}
+    notes:eight:115:Rumba {1 1 0}
+    notes:eight:116:Rumba {1 0 1}
+    notes:eight:117:Rumba {1 1 1}
+    notes:eight:120:Rumba {0 0 0}
+    notes:eight:125:Rumba {1 1 1}
+    notes:eight:128:Rumba {1 1 1}
+    notes:eight:134:Rumba {0 1 0}
+    notes:eight:139:Rumba {0 0 1}
+    notes:eight:140:Rumba {1 0 1}
+    notes:eight:141:Rumba {1 0 0}
+    notes:eight:142:Rumba {0 0 1}
+    notes:eight:143:Rumba {0 1 0}
+    notes:eight:145:Rumba {1 1 1}
+    notes:eight:146:Rumba {1 1 0}
+    notes:eight:148:Rumba {1 0 1}
+    notes:eight:149:Rumba {1 1 1}
+    notes:eight:151:Rumba {1 1 1}
+    notes:eight:153:Rumba {1 1 1}
+    notes:eight:158:Rumba {0 1 0}
+    notes:eight:160:Rumba {1 0 1}
+    notes:eight:161:Rumba {0 1 1}
+    notes:eight:162:Rumba {0 1 0}
+    notes:eight:169:Rumba {1 1 1}
+    notes:quarter:108:Rumba {0 1 0}
+    notes:quarter:113:Rumba {1 1 1}
+    notes:quarter:114:Rumba {1 1 0}
+    notes:quarter:115:Rumba {1 0 0}
+    notes:quarter:116:Rumba {1 1 1}
+    notes:quarter:117:Rumba {1 1 1}
+    notes:quarter:125:Rumba {1 0 1}
+    notes:quarter:128:Rumba {0 1 0}
+    notes:quarter:140:Rumba {0 0 1}
+    notes:quarter:145:Rumba {0 1 1}
+    notes:quarter:146:Rumba {1 0 1}
+    notes:quarter:148:Rumba {1 0 1}
+    notes:quarter:149:Rumba {1 1 1}
+    notes:quarter:151:Rumba {1 1 1}
+    notes:quarter:153:Rumba {0 1 1}
+    notes:quarter:160:Rumba {1 1 1}
+    notes:quarter:161:Rumba {1 0 0}
+    notes:quarter:169:Rumba {0 1 0}
+    notes:semi:113:Rumba {1 1 1}
+    notes:semi:114:Rumba {0 0 0}
+    notes:semi:116:Rumba {1 1 1}
+    notes:semi:117:Rumba {0 1 0}
+    notes:semi:125:Rumba {0 0 0}
+    notes:semi:145:Rumba {1 0 1}
+    notes:semi:146:Rumba {0 0 0}
+    notes:semi:148:Rumba {0 1 1}
+    notes:semi:149:Rumba {1 1 1}
+    notes:semi:151:Rumba {1 0 0}
+    notes:semi:153:Rumba {0 0 0}
+    notes:semi:160:Rumba {1 1 1}
+    notes:finale:113:Rumba {6 4 4}
+    notes:finale:116:Rumba {4 2 2}
+    notes:finale:145:Rumba {2 3 5}
+    notes:finale:148:Rumba {5 6 6}
+    notes:finale:149:Rumba {3 5 3}
+    notes:finale:160:Rumba {1 1 1}
+}
+
+folder100 {
+    label {87 Int Br J}
+    mode normal
+    dances Jive
+    attributes:age:ext {}
+    attributes:age:max {}
+    attributes:age:min {}
+    attributes:level {}
+    attributes:type {}
+    levels {quarter semi finale}
+    round:generation user
+    round:explicitNames 1
+    round:use50%rule 1
+    round:quarter:use 1
+    round:quarter:split 0
+    round:quarter:nb 12
+    round:quarter:nbSelected 12
+    round:quarter.2:nb 0
+    round:quarter:name {1/4 Finale}
+    round:semi:use 1
+    round:semi:split 0
+    round:semi:nb 6
+    round:semi:nbSelected 8
+    round:semi.2:nb 0
+    round:semi:name {1/2 Finale}
+    round:finale:use 1
+    round:finale:split 0
+    round:finale:nb 0
+    round:finale.2:nb 0
+    round:finale:name Finale
+    dances:quarter Jive
+    dances:semi Jive
+    panels {{} {} {} {} {} {} {} {} {} all}
+    judges:requested {C D E}
+    judges:quarter {C D E}
+    judges:semi {C D E}
+    judges:finale {C D E}
+    couples:names {108 113 114 115 116 117 128 134 139 140 141 142 145 146 148 149 151 158 161}
+    couples:all {108 113 114 115 116 117 128 134 139 140 141 142 145 146 148 149 151 158 161}
+    couples:quarter {108 113 114 115 116 117 128 134 139 140 141 142 145 146 148 149 151 158 161}
+    couples:semi {113 114 115 116 117 139 142 145 146 148 149 151}
+    couples:finale {113 114 116 117 139 142 148 149}
+    notes:quarter:108:Jive {0 1 0}
+    notes:quarter:113:Jive {1 1 1}
+    notes:quarter:114:Jive {1 1 1}
+    notes:quarter:115:Jive {1 1 1}
+    notes:quarter:116:Jive {1 0 1}
+    notes:quarter:117:Jive {1 0 1}
+    notes:quarter:128:Jive {0 1 0}
+    notes:quarter:134:Jive {1 0 0}
+    notes:quarter:139:Jive {1 1 1}
+    notes:quarter:140:Jive {0 0 0}
+    notes:quarter:141:Jive {0 1 0}
+    notes:quarter:142:Jive {1 1 1}
+    notes:quarter:145:Jive {1 0 1}
+    notes:quarter:146:Jive {1 1 1}
+    notes:quarter:148:Jive {0 1 1}
+    notes:quarter:149:Jive {1 0 1}
+    notes:quarter:151:Jive {1 1 1}
+    notes:quarter:158:Jive {0 1 0}
+    notes:quarter:161:Jive {0 0 0}
+    notes:semi:113:Jive {0 1 1}
+    notes:semi:114:Jive {1 1 0}
+    notes:semi:115:Jive {0 0 0}
+    notes:semi:116:Jive {0 1 1}
+    notes:semi:117:Jive {1 0 1}
+    notes:semi:139:Jive {0 1 1}
+    notes:semi:142:Jive {1 1 0}
+    notes:semi:145:Jive {0 0 0}
+    notes:semi:146:Jive {1 0 0}
+    notes:semi:148:Jive {1 0 1}
+    notes:semi:149:Jive {0 1 1}
+    notes:semi:151:Jive {1 0 0}
+    notes:finale:113:Jive {4 5 7}
+    notes:finale:114:Jive {8 2 8}
+    notes:finale:116:Jive {6 4 1}
+    notes:finale:117:Jive {5 6 3}
+    notes:finale:139:Jive {7 7 4}
+    notes:finale:142:Jive {3 1 5}
+    notes:finale:148:Jive {1 8 6}
+    notes:finale:149:Jive {2 3 2}
+}
+
+folder101 {
+    label {88 Int Br S}
+    mode normal
+    dances Samba
+    attributes:age:ext {}
+    attributes:age:max {}
+    attributes:age:min {}
+    attributes:level {}
+    attributes:type {}
+    levels {semi finale}
+    round:generation user
+    round:explicitNames 1
+    round:use50%rule 1
+    round:semi:use 1
+    round:semi:split 0
+    round:semi:nb 7
+    round:semi:nbSelected 7
+    round:semi.2:nb 0
+    round:semi:name {1/2 Finale}
+    round:finale:use 1
+    round:finale:split 0
+    round:finale:nb 0
+    round:finale.2:nb 0
+    round:finale:name Finale
+    dances:quarter Samba
+    dances:semi Samba
+    panels {{} {} {} {} {} {} {} {} {} all}
+    judges:requested {C D E}
+    judges:semi {C D E}
+    judges:finale {C D E}
+    couples:names {114 116 125 128 134 139 140 141 145 146 149 151 160 161}
+    couples:all {114 116 125 128 134 139 140 141 145 146 149 151 160 161}
+    couples:semi {114 116 125 128 134 139 140 141 145 146 149 151 160 161}
+    couples:finale {114 116 139 141 145 149 160}
+    notes:semi:114:Samba {1 1 0}
+    notes:semi:116:Samba {1 1 1}
+    notes:semi:125:Samba {0 0 1}
+    notes:semi:128:Samba {0 0 0}
+    notes:semi:134:Samba {0 0 0}
+    notes:semi:139:Samba {0 1 1}
+    notes:semi:140:Samba {1 0 0}
+    notes:semi:141:Samba {1 1 1}
+    notes:semi:145:Samba {1 0 1}
+    notes:semi:146:Samba {1 0 0}
+    notes:semi:149:Samba {1 1 1}
+    notes:semi:151:Samba {0 1 0}
+    notes:semi:160:Samba {0 1 1}
+    notes:semi:161:Samba {0 0 0}
+    notes:finale:114:Samba {6 4 6}
+    notes:finale:116:Samba {2 1 1}
+    notes:finale:139:Samba {7 3 4}
+    notes:finale:141:Samba {5 7 7}
+    notes:finale:145:Samba {1 6 5}
+    notes:finale:149:Samba {3 2 3}
+    notes:finale:160:Samba {4 5 2}
+}
+
+folder102 {
+    label {89 Int Br PD}
+    mode normal
+    dances {{Paso Doble}}
+    attributes:age:ext {}
+    attributes:age:max {}
+    attributes:age:min {}
+    attributes:level {}
+    attributes:type {}
+    levels {semi finale}
+    round:generation user
+    round:explicitNames 1
+    round:use50%rule 1
+    round:semi:use 1
+    round:semi:split 0
+    round:semi:nb 7
+    round:semi:nbSelected 7
+    round:semi.2:nb 0
+    round:semi:name {1/2 Finale}
+    round:finale:use 1
+    round:finale:split 0
+    round:finale:nb 0
+    round:finale.2:nb 0
+    round:finale:name Finale
+    dances:quarter {{Paso Doble}}
+    dances:semi {{Paso Doble}}
+    panels {{} {} {} {} {} {} {} {} {} all}
+    judges:requested {C D E}
+    judges:semi {C D E}
+    judges:finale {C D E}
+    couples:names {114 115 128 131 138 139 140 141 142 145 146 149 151 157}
+    couples:all {114 115 128 131 138 139 140 141 142 145 146 149 151 157}
+    couples:semi {114 115 128 131 138 139 140 141 142 145 146 149 151 157}
+    couples:finale {114 128 139 141 145 146 149}
+    {exclusion:finale:Paso Doble} 149
+    {notes:semi:114:Paso Doble} {0 1 1}
+    {notes:semi:115:Paso Doble} {0 1 0}
+    {notes:semi:128:Paso Doble} {1 1 1}
+    {notes:semi:131:Paso Doble} {0 0 0}
+    {notes:semi:138:Paso Doble} {0 0 0}
+    {notes:semi:139:Paso Doble} {1 1 1}
+    {notes:semi:140:Paso Doble} {1 0 0}
+    {notes:semi:141:Paso Doble} {1 0 1}
+    {notes:semi:142:Paso Doble} {0 0 0}
+    {notes:semi:145:Paso Doble} {1 1 1}
+    {notes:semi:146:Paso Doble} {1 0 1}
+    {notes:semi:149:Paso Doble} {1 1 1}
+    {notes:semi:151:Paso Doble} {0 1 0}
+    {notes:semi:157:Paso Doble} {0 0 0}
+    {notes:finale:114:Paso Doble} {6 1 5}
+    {notes:finale:128:Paso Doble} {3 3 3}
+    {notes:finale:139:Paso Doble} {5 4 4}
+    {notes:finale:141:Paso Doble} {4 5 6}
+    {notes:finale:145:Paso Doble} {1 2 1}
+    {notes:finale:146:Paso Doble} {2 6 2}
+    {notes:finale:149:Paso Doble} {7.0 7.0 7.0}
+}
+
+folder103 {
+    label {90 Int Sil C}
+    mode normal
+    dances {{Cha Cha}}
+    attributes:age:ext {}
+    attributes:age:max {}
+    attributes:age:min {}
+    attributes:level {}
+    attributes:type {}
+    levels {semi finale}
+    round:generation user
+    round:explicitNames 1
+    round:use50%rule 1
+    round:semi:use 1
+    round:semi:split 0
+    round:semi:nb 8
+    round:semi:nbSelected 8
+    round:semi.2:nb 0
+    round:semi:name {1/2 Finale}
+    round:finale:use 1
+    round:finale:split 0
+    round:finale:nb 0
+    round:finale.2:nb 0
+    round:finale:name Finale
+    dances:quarter {{Cha Cha}}
+    dances:semi {{Cha Cha}}
+    panels {{} {} {} {} {} {} {} {} {} {} all}
+    judges:requested {B F G}
+    judges:semi {B F G}
+    judges:finale {B F G}
+    couples:names {101 105 107 125 128 133 139 140 141 142 145 146 147 149 160 161}
+    couples:all {101 105 107 125 128 133 139 140 141 142 145 146 147 149 160 161}
+    couples:semi {101 105 107 125 128 133 139 140 141 142 145 146 147 149 160 161}
+    couples:finale {101 107 125 128 139 145 146 161}
+    {notes:semi:101:Cha Cha} {1 1 1}
+    {notes:semi:105:Cha Cha} {0 0 0}
+    {notes:semi:107:Cha Cha} {1 1 1}
+    {notes:semi:125:Cha Cha} {0 1 1}
+    {notes:semi:128:Cha Cha} {0 1 1}
+    {notes:semi:133:Cha Cha} {1 0 0}
+    {notes:semi:139:Cha Cha} {1 1 0}
+    {notes:semi:140:Cha Cha} {0 0 0}
+    {notes:semi:141:Cha Cha} {0 1 0}
+    {notes:semi:142:Cha Cha} {0 0 1}
+    {notes:semi:145:Cha Cha} {1 0 1}
+    {notes:semi:146:Cha Cha} {1 0 1}
+    {notes:semi:147:Cha Cha} {1 0 0}
+    {notes:semi:149:Cha Cha} {0 0 0}
+    {notes:semi:160:Cha Cha} {0 1 0}
+    {notes:semi:161:Cha Cha} {1 1 1}
+    {notes:finale:101:Cha Cha} {3 3 1}
+    {notes:finale:107:Cha Cha} {1 1 4}
+    {notes:finale:125:Cha Cha} {6 5 7}
+    {notes:finale:128:Cha Cha} {7 4 6}
+    {notes:finale:139:Cha Cha} {5 8 3}
+    {notes:finale:145:Cha Cha} {4 2 5}
+    {notes:finale:146:Cha Cha} {8 7 2}
+    {notes:finale:161:Cha Cha} {2 6 8}
+}
+
+folder104 {
+    label {91 Int Sil R}
+    mode normal
+    dances Rumba
+    attributes:age:ext {}
+    attributes:age:max {}
+    attributes:age:min {}
+    attributes:level {}
+    attributes:type {}
+    levels {semi finale}
+    round:generation user
+    round:explicitNames 1
+    round:use50%rule 1
+    round:semi:use 1
+    round:semi:split 0
+    round:semi:nb 8
+    round:semi:nbSelected 8
+    round:semi.2:nb 0
+    round:semi:name {1/2 Finale}
+    round:finale:use 1
+    round:finale:split 0
+    round:finale:nb 0
+    round:finale.2:nb 0
+    round:finale:name Finale
+    dances:quarter Rumba
+    dances:semi Rumba
+    panels {{} {} {} {} {} {} {} {} {} {} all}
+    judges:requested {B F G}
+    judges:semi {B F G}
+    judges:finale {B F G}
+    couples:names {101 105 107 125 128 133 139 140 141 142 145 146 147 149 160 161}
+    couples:all {101 105 107 125 128 133 139 140 141 142 145 146 147 149 160 161}
+    couples:semi {101 105 107 125 128 133 139 140 141 142 145 146 147 149 160 161}
+    couples:finale {101 107 125 128 142 145 160 161}
+    notes:semi:101:Rumba {1 1 1}
+    notes:semi:105:Rumba {1 0 0}
+    notes:semi:107:Rumba {1 1 1}
+    notes:semi:125:Rumba {0 1 1}
+    notes:semi:128:Rumba {0 1 1}
+    notes:semi:133:Rumba {1 0 0}
+    notes:semi:139:Rumba {0 0 0}
+    notes:semi:140:Rumba {0 0 0}
+    notes:semi:141:Rumba {0 0 1}
+    notes:semi:142:Rumba {1 1 0}
+    notes:semi:145:Rumba {1 1 1}
+    notes:semi:146:Rumba {0 0 0}
+    notes:semi:147:Rumba {0 1 0}
+    notes:semi:149:Rumba {0 1 0}
+    notes:semi:160:Rumba {1 0 1}
+    notes:semi:161:Rumba {1 0 1}
+    notes:finale:101:Rumba {2 3 5}
+    notes:finale:107:Rumba {3 1 6}
+    notes:finale:125:Rumba {8 4 7}
+    notes:finale:128:Rumba {7 8 4}
+    notes:finale:142:Rumba {6 5 8}
+    notes:finale:145:Rumba {4 2 1}
+    notes:finale:160:Rumba {1 7 2}
+    notes:finale:161:Rumba {5 6 3}
+}
+
+folder105 {
+    label {92 Int Sil J}
+    mode normal
+    dances Jive
+    attributes:age:ext {}
+    attributes:age:max {}
+    attributes:age:min {}
+    attributes:level {}
+    attributes:type {}
+    levels {semi finale}
+    round:generation user
+    round:explicitNames 1
+    round:use50%rule 1
+    round:semi:use 1
+    round:semi:split 0
+    round:semi:nb 7
+    round:semi:nbSelected 8
+    round:semi.2:nb 0
+    round:semi:name {1/2 Finale}
+    round:finale:use 1
+    round:finale:split 0
+    round:finale:nb 0
+    round:finale.2:nb 0
+    round:finale:name Finale
+    dances:quarter Jive
+    dances:semi Jive
+    panels {{} {} {} {} {} {} {} {} {} {} all}
+    judges:requested {B F G}
+    judges:semi {B F G}
+    judges:finale {B F G}
+    couples:names {101 105 107 128 133 140 141 142 145 146 147 149 161}
+    couples:all {101 105 107 128 133 140 141 142 145 146 147 149 161}
+    couples:semi {101 105 107 128 133 140 141 142 145 146 147 149 161}
+    couples:finale {101 107 128 133 141 145 147 161}
+    notes:semi:101:Jive {1 1 1}
+    notes:semi:105:Jive {1 0 0}
+    notes:semi:107:Jive {0 1 1}
+    notes:semi:128:Jive {0 1 1}
+    notes:semi:133:Jive {1 1 1}
+    notes:semi:140:Jive {0 0 0}
+    notes:semi:141:Jive {1 0 1}
+    notes:semi:142:Jive {0 0 0}
+    notes:semi:145:Jive {1 1 1}
+    notes:semi:146:Jive {0 1 0}
+    notes:semi:147:Jive {1 1 0}
+    notes:semi:149:Jive {0 0 0}
+    notes:semi:161:Jive {1 0 1}
+    notes:finale:101:Jive {2 2 2}
+    notes:finale:107:Jive {1 1 1}
+    notes:finale:128:Jive {7 6 6}
+    notes:finale:133:Jive {5 4 5}
+    notes:finale:141:Jive {4 8 7}
+    notes:finale:145:Jive {3 3 4}
+    notes:finale:147:Jive {6 5 8}
+    notes:finale:161:Jive {8 7 3}
+}
+
+folder106 {
+    label {93 Int Sil S}
+    mode normal
+    dances Samba
+    attributes:age:ext {}
+    attributes:age:max {}
+    attributes:age:min {}
+    attributes:level {}
+    attributes:type {}
+    levels {semi finale}
+    round:generation user
+    round:explicitNames 1
+    round:use50%rule 1
+    round:semi:use 1
+    round:semi:split 0
+    round:semi:nb 7
+    round:semi:nbSelected 7
+    round:semi.2:nb 0
+    round:semi:name {1/2 Finale}
+    round:finale:use 1
+    round:finale:split 0
+    round:finale:nb 0
+    round:finale.2:nb 0
+    round:finale:name Finale
+    dances:quarter Samba
+    dances:semi Samba
+    panels {{} {} {} {} {} {} {} {} {} {} all}
+    judges:requested {B F G}
+    judges:semi {B F G}
+    judges:finale {B F G}
+    couples:names {101 105 107 128 133 139 140 141 145 146 147 149 160 161}
+    couples:all {101 105 107 128 133 139 140 141 145 146 147 149 160 161}
+    couples:semi {101 105 107 128 133 139 140 141 145 146 147 149 160 161}
+    couples:finale {101 107 133 141 145 147 160}
+    notes:semi:101:Samba {1 1 1}
+    notes:semi:105:Samba {0 0 0}
+    notes:semi:107:Samba {0 1 1}
+    notes:semi:128:Samba {1 0 0}
+    notes:semi:133:Samba {1 0 1}
+    notes:semi:139:Samba {0 1 0}
+    notes:semi:140:Samba {0 0 0}
+    notes:semi:141:Samba {1 1 1}
+    notes:semi:145:Samba {1 1 1}
+    notes:semi:146:Samba {0 0 1}
+    notes:semi:147:Samba {1 0 1}
+    notes:semi:149:Samba {0 0 0}
+    notes:semi:160:Samba {1 1 0}
+    notes:semi:161:Samba {0 1 0}
+    notes:finale:101:Samba {2 2 4}
+    notes:finale:107:Samba {1 1 2}
+    notes:finale:133:Samba {5 5 5}
+    notes:finale:141:Samba {7 7 6}
+    notes:finale:145:Samba {4 3 3}
+    notes:finale:147:Samba {6 4 7}
+    notes:finale:160:Samba {3 6 1}
+}
+
+folder107 {
+    label {94 Int Sil PD}
+    mode normal
+    dances {{Paso Doble}}
+    attributes:age:ext {}
+    attributes:age:max {}
+    attributes:age:min {}
+    attributes:level {}
+    attributes:type {}
+    levels finale
+    round:generation user
+    round:explicitNames 1
+    round:use50%rule 1
+    round:finale:use 1
+    round:finale:split 0
+    round:finale:nb 0
+    round:finale.2:nb 0
+    round:finale:name Finale
+    dances:semi {{Paso Doble}}
+    panels {{} {} {} {} {} {} {} {} {} {} all}
+    judges:requested {B F G}
+    judges:finale {B F G}
+    couples:names {107 133 140 141 145 146 147 149}
+    couples:all {107 133 140 141 145 146 147 149}
+    couples:finale {107 133 140 141 145 146 147 149}
+    {notes:finale:107:Paso Doble} {3 1 1}
+    {notes:finale:133:Paso Doble} {1 3 6}
+    {notes:finale:140:Paso Doble} {8 8 8}
+    {notes:finale:141:Paso Doble} {5 7 3}
+    {notes:finale:145:Paso Doble} {4 4 2}
+    {notes:finale:146:Paso Doble} {6 6 5}
+    {notes:finale:147:Paso Doble} {2 2 4}
+    {notes:finale:149:Paso Doble} {7 5 7}
+}
+
+folder108 {
+    label {95 Int Gld C}
+    mode normal
+    dances {{Cha Cha}}
+    attributes:age:ext {}
+    attributes:age:max {}
+    attributes:age:min {}
+    attributes:level {}
+    attributes:type {}
+    levels finale
+    round:generation auto
+    round:explicitNames 1
+    round:use50%rule 1
+    round:finale:use 1
+    round:finale:split 0
+    round:finale:nb 0
+    round:finale.2:nb 0
+    round:finale:name Finale
+    panels {{} {} {} {} {} {} {} {} {} {} all}
+    judges:requested {B F G}
+    judges:finale {B F G}
+    couples:names {101 103 106 107 124 147}
+    couples:all {101 103 106 107 124 147}
+    couples:finale {101 103 106 107 124 147}
+    {notes:finale:101:Cha Cha} {5 6 5}
+    {notes:finale:103:Cha Cha} {4 5 6}
+    {notes:finale:106:Cha Cha} {2 4 2}
+    {notes:finale:107:Cha Cha} {1 2 3}
+    {notes:finale:124:Cha Cha} {3 1 1}
+    {notes:finale:147:Cha Cha} {6 3 4}
+}
+
+folder109 {
+    label {96 Int Gld R}
+    mode normal
+    dances Rumba
+    attributes:age:ext {}
+    attributes:age:max {}
+    attributes:age:min {}
+    attributes:level {}
+    attributes:type {}
+    levels finale
+    round:generation auto
+    round:explicitNames 1
+    round:use50%rule 1
+    round:finale:use 1
+    round:finale:split 0
+    round:finale:nb 0
+    round:finale.2:nb 0
+    round:finale:name Finale
+    panels {{} {} {} {} {} {} {} {} {} {} all}
+    judges:requested {B F G}
+    judges:finale {B F G}
+    couples:names {101 103 106 107 124 147}
+    couples:all {101 103 106 107 124 147}
+    couples:finale {101 103 106 107 124 147}
+    notes:finale:101:Rumba {6 6 6}
+    notes:finale:103:Rumba {5 5 5}
+    notes:finale:106:Rumba {1 3 2}
+    notes:finale:107:Rumba {3 4 3}
+    notes:finale:124:Rumba {2 1 1}
+    notes:finale:147:Rumba {4 2 4}
+}
+
+folder110 {
+    label {97 Int Gld J}
+    mode normal
+    dances Jive
+    attributes:age:ext {}
+    attributes:age:max {}
+    attributes:age:min {}
+    attributes:level {}
+    attributes:type {}
+    levels finale
+    round:generation auto
+    round:explicitNames 1
+    round:use50%rule 1
+    round:finale:use 1
+    round:finale:split 0
+    round:finale:nb 0
+    round:finale.2:nb 0
+    round:finale:name Finale
+    panels {{} {} {} {} {} {} {} {} {} {} all}
+    judges:requested {B F G}
+    judges:finale {B F G}
+    couples:names {101 103 106 107 124 147}
+    couples:all {101 103 106 107 124 147}
+    couples:finale {101 103 106 107 124 147}
+    notes:finale:101:Jive {6 6 6}
+    notes:finale:103:Jive {3 5 5}
+    notes:finale:106:Jive {1 3 3}
+    notes:finale:107:Jive {4 4 2}
+    notes:finale:124:Jive {5 1 1}
+    notes:finale:147:Jive {2 2 4}
+}
+
+folder111 {
+    label {98 Int Gld S}
+    mode normal
+    dances Samba
+    attributes:age:ext {}
+    attributes:age:max {}
+    attributes:age:min {}
+    attributes:level {}
+    attributes:type {}
+    levels finale
+    round:generation auto
+    round:explicitNames 1
+    round:use50%rule 1
+    round:finale:use 1
+    round:finale:split 0
+    round:finale:nb 0
+    round:finale.2:nb 0
+    round:finale:name Finale
+    panels {{} {} {} {} {} {} {} {} {} {} all}
+    judges:requested {B F G}
+    judges:finale {B F G}
+    couples:names {101 103 106 107 124 147}
+    couples:all {101 103 106 107 124 147}
+    couples:finale {101 103 106 107 124 147}
+    notes:finale:101:Samba {6 6 6}
+    notes:finale:103:Samba {3 5 5}
+    notes:finale:106:Samba {1 3 3}
+    notes:finale:107:Samba {5 4 2}
+    notes:finale:124:Samba {4 1 1}
+    notes:finale:147:Samba {2 2 4}
+}
+
+folder112 {
+    label {99 Int Gld PD}
+    mode normal
+    dances {{Paso Doble}}
+    attributes:age:ext {}
+    attributes:age:max {}
+    attributes:age:min {}
+    attributes:level {}
+    attributes:type {}
+    levels finale
+    round:generation auto
+    round:explicitNames 1
+    round:use50%rule 1
+    round:finale:use 1
+    round:finale:split 0
+    round:finale:nb 0
+    round:finale.2:nb 0
+    round:finale:name Finale
+    panels {{} {} {} {} {} {} {} {} {} {} all}
+    judges:requested {B F G}
+    judges:finale {B F G}
+    couples:names {107 147}
+    couples:all {107 147}
+    couples:finale {107 147}
+    {notes:finale:107:Paso Doble} {1 1 1}
+    {notes:finale:147:Paso Doble} {2 2 2}
+}
+
+folder113 {
+    label {112 Open Nov Std WTQ}
+    mode normal
+    dances {Waltz Tango Quickstep}
+    attributes:age:ext {}
+    attributes:age:max {}
+    attributes:age:min {}
+    attributes:level {}
+    attributes:type {}
+    levels finale
+    round:generation auto
+    round:explicitNames 1
+    round:use50%rule 1
+    round:finale:use 1
+    round:finale:split 0
+    round:finale:nb 0
+    round:finale.2:nb 0
+    round:finale:name Finale
+    panels {{} {} {} {} {} {} {} {} {} {} {} all}
+    judges:requested {A B C D E F G}
+    judges:finale {A B C D E F G}
+    couples:names {155 163}
+    couples:all {155 163}
+    couples:finale {155 163}
+    notes:finale:155:Quickstep {2 2 1 2 1 2 2}
+    notes:finale:163:Quickstep {1 1 2 1 2 1 1}
+    notes:finale:155:Tango {2 2 2 1 2 2 2}
+    notes:finale:163:Tango {1 1 1 2 1 1 1}
+    notes:finale:155:Waltz {2 2 1 2 1 2 2}
+    notes:finale:163:Waltz {1 1 2 1 2 1 1}
+}
+
+folder114 {
+    label {113 Open Nov Latin SCR}
+    mode normal
+    dances {{Cha Cha} Rumba Samba}
+    attributes:age:ext {}
+    attributes:age:max {}
+    attributes:age:min {}
+    attributes:level {}
+    attributes:type {}
+    levels finale
+    round:generation auto
+    round:explicitNames 1
+    round:use50%rule 1
+    round:finale:use 1
+    round:finale:split 0
+    round:finale:nb 0
+    round:finale.2:nb 0
+    round:finale:name Finale
+    panels {{} {} {} {} {} {} {} {} {} {} {} all}
+    judges:requested {A B C D E F G}
+    judges:finale {A B C D E F G}
+    couples:names {123 124}
+    couples:all {123 124}
+    couples:finale {123 124}
+    {notes:finale:123:Cha Cha} {1 2 1 2 2 1 1}
+    {notes:finale:124:Cha Cha} {2 1 2 1 1 2 2}
+    notes:finale:123:Rumba {1 1 1 1 1 1 1}
+    notes:finale:124:Rumba {2 2 2 2 2 2 2}
+    notes:finale:123:Samba {1 1 1 1 1 1 1}
+    notes:finale:124:Samba {2 2 2 2 2 2 2}
+}
+
+folder115 {
+    label {114 Champ Intl WTVFQ}
+    mode normal
+    dances {Waltz Tango Quickstep {Viennese Waltz} {Slow Foxtrot}}
+    attributes:age:ext {}
+    attributes:age:max {}
+    attributes:age:min {}
+    attributes:level {}
+    attributes:type {}
+    levels finale
+    round:generation auto
+    round:explicitNames 1
+    round:use50%rule 1
+    round:finale:use 1
+    round:finale:split 0
+    round:finale:nb 0
+    round:finale.2:nb 0
+    round:finale:name Finale
+    panels {{} {} {} {} {} {} {} {} {} {} {} all}
+    judges:requested {A B C D E F G}
+    judges:finale {A B C D E F G}
+    couples:names {163 164}
+    couples:all {163 164}
+    couples:finale {163 164}
+    notes:finale:163:Quickstep {2 1 2 2 2 2 2}
+    notes:finale:164:Quickstep {1 2 1 1 1 1 1}
+    {notes:finale:163:Slow Foxtrot} {2 1 2 2 2 2 2}
+    {notes:finale:164:Slow Foxtrot} {1 2 1 1 1 1 1}
+    notes:finale:163:Tango {2 2 2 2 2 2 2}
+    notes:finale:164:Tango {1 1 1 1 1 1 1}
+    {notes:finale:163:Viennese Waltz} {2 1 2 2 2 2 2}
+    {notes:finale:164:Viennese Waltz} {1 2 1 1 1 1 1}
+    notes:finale:163:Waltz {2 2 2 2 2 2 2}
+    notes:finale:164:Waltz {1 1 1 1 1 1 1}
+}
+
+folder116 {
+    label {115 Champ Sm WTFV}
+    mode normal
+    dances {Waltz Tango {Slow Foxtrot} {Viennese Waltz}}
+    attributes:age:ext {}
+    attributes:age:max {}
+    attributes:age:min {}
+    attributes:level {}
+    attributes:type {}
+    levels finale
+    round:generation auto
+    round:explicitNames 1
+    round:use50%rule 1
+    round:finale:use 1
+    round:finale:split 0
+    round:finale:nb 0
+    round:finale.2:nb 0
+    round:finale:name Finale
+    panels {{} {} {} {} {} {} {} {} {} {} {} all}
+    judges:requested {A B C D E F G}
+    judges:finale {A B C D E F G}
+    couples:names 163
+    couples:all 163
+    couples:finale 163
+    {notes:finale:163:Slow Foxtrot} {1 1 1 1 1 1 1}
+    notes:finale:163:Tango {1 1 1 1 1 1 1}
+    {notes:finale:163:Viennese Waltz} {1 1 1 1 1 1 1}
+    notes:finale:163:Waltz {1 1 1 1 1 1 1}
+}
+
+folder117 {
+    label {116 Champ Latin SCRPJ}
+    mode normal
+    dances {{Cha Cha} Rumba Jive Samba {Paso Doble}}
+    attributes:age:ext {}
+    attributes:age:max {}
+    attributes:age:min {}
+    attributes:level {}
+    attributes:type {}
+    levels finale
+    round:generation auto
+    round:explicitNames 1
+    round:use50%rule 1
+    round:finale:use 1
+    round:finale:split 0
+    round:finale:nb 0
+    round:finale.2:nb 0
+    round:finale:name Finale
+    panels {{} {} {} {} {} {} {} {} {} {} {} all}
+    judges:requested {A B C D E F G}
+    judges:finale {A B C D E F G}
+    couples:names 123
+    couples:all 123
+    couples:finale 123
+    {notes:finale:123:Cha Cha} {1 1 1 1 1 1 1}
+    notes:finale:123:Jive {1 1 1 1 1 1 1}
+    {notes:finale:123:Paso Doble} {1 1 1 1 1 1 1}
+    notes:finale:123:Rumba {1 1 1 1 1 1 1}
+    notes:finale:123:Samba {1 1 1 1 1 1 1}
+}
+
+folder118 {
+    label Team
+    mode normal
+    dances {Waltz Tango {Cha Cha} Jive}
+    attributes:age:ext {}
+    attributes:age:max {}
+    attributes:age:min {}
+    attributes:level {}
+    attributes:type {}
+    levels finale
+    round:generation auto
+    round:explicitNames 1
+    round:use50%rule 1
+    round:finale:use 1
+    round:finale:split 0
+    round:finale:nb 0
+    round:finale.2:nb 0
+    round:finale:name Finale
+    panels {}
+    judges:requested {A B D E F}
+    judges:semi {A B D E F G}
+    judges:finale {A B D E F}
+    couples:names {200 201 202 203 204 205 206}
+    couples:all {200 201 202 203 204 205 206}
+    couples:finale {200 201 202 203 204 205 206}
+    {notes:finale:200:Cha Cha} {5 6 3 3 4}
+    {notes:finale:201:Cha Cha} {4 5 5 5 5}
+    {notes:finale:202:Cha Cha} {3 3 2 2 2}
+    {notes:finale:203:Cha Cha} {2 2 4 4 3}
+    {notes:finale:204:Cha Cha} {6 4 6 6 6}
+    {notes:finale:205:Cha Cha} {1 1 1 1 1}
+    {notes:finale:206:Cha Cha} {7 7 7 7 7}
+    notes:finale:200:Jive {3 4 5 3 4}
+    notes:finale:201:Jive {6 6 6 5 5}
+    notes:finale:202:Jive {4 1 2 6 2}
+    notes:finale:203:Jive {1 2 3 2 1}
+    notes:finale:204:Jive {5 5 4 7 7}
+    notes:finale:205:Jive {2 3 1 1 3}
+    notes:finale:206:Jive {7 7 7 4 6}
+    notes:finale:200:Tango {2 5 4 5 5}
+    notes:finale:201:Tango {4 2 5 2 3}
+    notes:finale:202:Tango {3 3 2 3 2}
+    notes:finale:203:Tango {1 1 1 1 1}
+    notes:finale:204:Tango {5 6 6 7 6}
+    notes:finale:205:Tango {6 4 3 4 4}
+    notes:finale:206:Tango {7 7 7 6 7}
+    notes:finale:200:Waltz {5 3 4 2 3}
+    notes:finale:201:Waltz {4 4 2 3 6}
+    notes:finale:202:Waltz {1 2 3 4 7}
+    notes:finale:203:Waltz {2 1 1 1 1}
+    notes:finale:204:Waltz {7 5 5 5 2}
+    notes:finale:205:Waltz {3 6 6 6 5}
+    notes:finale:206:Waltz {6 7 7 7 4}
+}
+
